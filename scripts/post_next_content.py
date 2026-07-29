@@ -14,13 +14,13 @@ from datetime import datetime, timezone
 GRAPH_API = "https://graph.facebook.com/v20.0"
 QUEUE_PATH = os.path.join(os.path.dirname(__file__), "..", "queue", "content_queue.json")
 
-ACCESS_TOKEN = os.environ["META_ACCESS_TOKEN"]
-IG_BUSINESS_ACCOUNT_ID = os.environ["IG_BUSINESS_ACCOUNT_ID"]
-WHATSAPP_PHONE_NUMBER_ID = os.environ["WHATSAPP_PHONE_NUMBER_ID"]
-WHATSAPP_TEST_RECIPIENT = os.environ["WHATSAPP_TEST_RECIPIENT"]
+ACCESS_TOKEN = os.environ["META_ACCESS_TOKEN"].strip()
+IG_BUSINESS_ACCOUNT_ID = os.environ["IG_BUSINESS_ACCOUNT_ID"].strip()
+WHATSAPP_PHONE_NUMBER_ID = os.environ["WHATSAPP_PHONE_NUMBER_ID"].strip()
+WHATSAPP_TEST_RECIPIENT = os.environ["WHATSAPP_TEST_RECIPIENT"].strip()
 PUBLIC_ASSET_BASE_URL = os.environ.get(
     "PUBLIC_ASSET_BASE_URL", "https://pradipbhuyan.github.io/likha-poha-promo-assets"
-)
+).strip()
 
 
 def http_post_form(url, params):
