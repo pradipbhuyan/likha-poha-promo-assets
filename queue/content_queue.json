@@ -220,7 +220,8 @@
     "channel": "whatsapp",
     "asset_path": "08-motivation-8.png",
     "caption": "*Best time to revise: yesterday. Second best: right now.*\n\nYou can't get yesterday back, but you can start today's revision right now.\n\nlikhapoha.in",
-    "status": "pending"
+    "status": "posted",
+    "posted_at": "2026-08-07T04:36:33.569046+00:00"
   },
   {
     "id": "09-tip-1-instagram",
