@@ -348,7 +348,8 @@
     "channel": "whatsapp",
     "asset_path": "16-feature-lessons.png",
     "caption": "*Your NCERT textbook. Explained simply.*\n\nNot generic AI — lessons grounded in your child's actual chapter.\n\nlikhapoha.in",
-    "status": "pending"
+    "status": "posted",
+    "posted_at": "2026-08-12T14:37:31.219819+00:00"
   },
   {
     "id": "17-feature-mocktest-instagram",
