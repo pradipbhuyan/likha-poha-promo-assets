@@ -364,7 +364,8 @@
     "channel": "whatsapp",
     "asset_path": "17-feature-mocktest.png",
     "caption": "*140,000+ questions. Zero exam-day surprises.*\n\nCBSE-specific practice by chapter and difficulty, scored instantly.\n\nlikhapoha.in",
-    "status": "pending"
+    "status": "posted",
+    "posted_at": "2026-08-13T09:39:40.093917+00:00"
   },
   {
     "id": "18-feature-parentdash-instagram",
