@@ -380,7 +380,8 @@
     "channel": "whatsapp",
     "asset_path": "18-feature-parentdash.png",
     "caption": "*Know what they're stuck on — before the exam.*\n\nA real-time Parent Dashboard flags weak chapters automatically.\n\nlikhapoha.in",
-    "status": "pending"
+    "status": "posted",
+    "posted_at": "2026-08-14T09:34:47.996804+00:00"
   },
   {
     "id": "19-feature-formula-instagram",
