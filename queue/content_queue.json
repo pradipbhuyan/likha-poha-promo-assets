@@ -396,7 +396,8 @@
     "channel": "whatsapp",
     "asset_path": "19-feature-formula.png",
     "caption": "*Every formula. One search away.*\n\nNo more flipping through the whole textbook to find one formula.\n\nlikhapoha.in",
-    "status": "pending"
+    "status": "posted",
+    "posted_at": "2026-08-15T03:13:23.189894+00:00"
   },
   {
     "id": "20-feature-boardpapers-instagram",
