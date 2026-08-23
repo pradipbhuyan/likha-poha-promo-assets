@@ -588,7 +588,8 @@
     "channel": "whatsapp",
     "asset_path": "31-examprep-overview.png",
     "caption": "*One dashboard. Six global exams.*\n\nJEE Main, NEET UG, CUET UG, SAT, IELTS, and TOEFL iBT — the only platform that preps you for all of them in one place.\n\nlikhapoha.in",
-    "status": "pending"
+    "status": "posted",
+    "posted_at": "2026-08-23T03:29:55.855779+00:00"
   },
   {
     "id": "32-examprep-jee-instagram",
