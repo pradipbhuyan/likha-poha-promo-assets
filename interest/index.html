@@ -284,6 +284,12 @@
     letter-spacing: 0.02em;
     color: var(--muted);
   }
+  footer a {
+    color: var(--muted);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+  footer a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 
   @media (prefers-reduced-motion: reduce) {
     .role-card, .progress .seg::after, button.primary { transition: none; }
@@ -364,7 +370,7 @@
     </section>
   </main>
 
-  <footer>LIKHA POHA AI · LIKHAPOHA.IN</footer>
+  <footer>LIKHA POHA AI · <a href="https://likhapoha.in" target="_blank" rel="noopener">LIKHAPOHA.IN</a></footer>
 </div>
 
 <script>
