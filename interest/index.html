@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Free Study Plan — Likha Poha AI</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@600;700&family=Work+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --paper: #faf9fc;
+    --surface: #ffffff;
+    --ink: #14162b;
+    --muted: #6b6f8a;
+    --line: #e4e1ef;
+    --accent: #6366f1;
+    --accent-deep: #4338ca;
+    --accent-soft: #eef0fd;
+    --good: #22c55e;
+    --good-soft: #dcfce7;
+    --error: #b91c1c;
+    --error-soft: #fdecec;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --paper: #14131f;
+      --surface: #1d1c2c;
+      --ink: #f1f0f7;
+      --muted: #9491ad;
+      --line: #2f2d43;
+      --accent: #818cf8;
+      --accent-deep: #a5b4fc;
+      --accent-soft: rgba(129, 140, 248, 0.16);
+      --good: #4ade80;
+      --good-soft: rgba(74, 222, 128, 0.14);
+      --error: #f87171;
+      --error-soft: rgba(248, 113, 113, 0.14);
+    }
+  }
+  :root[data-theme="dark"] {
+    --paper: #14131f;
+    --surface: #1d1c2c;
+    --ink: #f1f0f7;
+    --muted: #9491ad;
+    --line: #2f2d43;
+    --accent: #818cf8;
+    --accent-deep: #a5b4fc;
+    --accent-soft: rgba(129, 140, 248, 0.16);
+    --good: #4ade80;
+    --good-soft: rgba(74, 222, 128, 0.14);
+    --error: #f87171;
+    --error-soft: rgba(248, 113, 113, 0.14);
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: "Work Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: var(--paper);
+    color: var(--ink);
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+  }
+  .app {
+    width: 100%;
+    max-width: 460px;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  header {
+    padding: 28px 24px 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
+  }
+  header .logo {
+    font-family: "Sora", sans-serif;
+    font-weight: 700;
+    font-size: 17px;
+    color: var(--accent);
+    letter-spacing: -0.01em;
+  }
+  header .tagline {
+    color: var(--muted);
+    font-size: 12.5px;
+  }
+
+  .progress {
+    display: flex;
+    gap: 6px;
+    padding: 0 24px;
+    margin-top: 10px;
+  }
+  .progress .seg {
+    flex: 1;
+    height: 3px;
+    border-radius: 2px;
+    background: var(--line);
+    overflow: hidden;
+  }
+  .progress .seg::after {
+    content: "";
+    display: block;
+    height: 100%;
+    width: 0%;
+    background: var(--accent);
+    transition: width 0.25s ease;
+  }
+  .progress .seg.filled::after { width: 100%; }
+
+  main {
+    flex: 1;
+    padding: 20px 24px 32px;
+    display: flex;
+    flex-direction: column;
+  }
+  .screen { display: none; flex-direction: column; flex: 1; }
+  .screen.active { display: flex; }
+
+  h1 {
+    font-family: "Sora", sans-serif;
+    font-weight: 700;
+    font-size: clamp(1.35rem, 5.5vw, 1.6rem);
+    line-height: 1.28;
+    letter-spacing: -0.01em;
+    margin: 4px 0 6px;
+    text-wrap: balance;
+  }
+  .sub {
+    color: var(--muted);
+    font-size: 14.5px;
+    line-height: 1.5;
+    margin: 0 0 22px;
+  }
+
+  .role-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .role-card {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    padding: 16px 18px;
+    border: 1.5px solid var(--line);
+    border-radius: 16px;
+    background: var(--surface);
+    color: var(--ink);
+    cursor: pointer;
+    font: inherit;
+    text-align: left;
+    transition: border-color 0.15s ease, background 0.15s ease, transform 0.1s ease;
+  }
+  .role-card .emoji {
+    font-size: 21px;
+    width: 34px;
+    height: 34px;
+    border-radius: 10px;
+    background: var(--accent-soft);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+  .role-card .label {
+    font-family: "Sora", sans-serif;
+    font-weight: 600;
+    font-size: 15.5px;
+  }
+  .role-card:active { transform: scale(0.98); }
+  .role-card.selected {
+    border-color: var(--accent);
+    background: var(--accent-soft);
+  }
+
+  form { display: flex; flex-direction: column; flex: 1; }
+
+  label {
+    display: block;
+    font-size: 11.5px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--muted);
+    margin: 16px 0 7px;
+  }
+  label:first-of-type { margin-top: 0; }
+
+  select, input {
+    width: 100%;
+    padding: 13px 14px;
+    border: 1.5px solid var(--line);
+    border-radius: 11px;
+    font-family: "Work Sans", sans-serif;
+    font-size: 15.5px;
+    font-weight: 500;
+    background: var(--surface);
+    color: var(--ink);
+  }
+  select:focus, input:focus {
+    outline: 2px solid var(--accent);
+    outline-offset: 1px;
+    border-color: var(--accent);
+  }
+  ::placeholder { color: var(--muted); opacity: 0.8; }
+
+  .btn-row {
+    margin-top: auto;
+    padding-top: 22px;
+  }
+  button.primary {
+    width: 100%;
+    padding: 15px;
+    background: var(--accent);
+    color: #ffffff;
+    border: none;
+    border-radius: 13px;
+    font-family: "Sora", sans-serif;
+    font-size: 15.5px;
+    font-weight: 700;
+    letter-spacing: 0.01em;
+    cursor: pointer;
+    transition: background 0.15s ease;
+  }
+  button.primary:disabled { opacity: 0.6; cursor: not-allowed; }
+  button.primary:active:not(:disabled) { background: var(--accent-deep); }
+  button.primary:focus-visible { outline: 2px solid var(--accent-deep); outline-offset: 2px; }
+
+  .back-link {
+    background: none;
+    border: none;
+    color: var(--muted);
+    font-family: "Work Sans", sans-serif;
+    font-size: 13.5px;
+    font-weight: 500;
+    padding: 0;
+    margin-bottom: 14px;
+    cursor: pointer;
+    align-self: flex-start;
+  }
+  .back-link:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+  .confirm {
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    gap: 10px;
+  }
+  .confirm .check {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background: var(--good-soft);
+    color: var(--good);
+    font-size: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 6px;
+  }
+  .confirm h1 { text-align: center; }
+  .confirm .sub { text-align: center; max-width: 300px; margin-left: auto; margin-right: auto; }
+
+  .error-msg {
+    color: var(--error);
+    background: var(--error-soft);
+    border-radius: 10px;
+    padding: 10px 12px;
+    font-size: 13px;
+    margin-top: 12px;
+    display: none;
+  }
+
+  footer {
+    text-align: center;
+    padding: 18px;
+    font-size: 11.5px;
+    letter-spacing: 0.02em;
+    color: var(--muted);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .role-card, .progress .seg::after, button.primary { transition: none; }
+  }
+</style>
+</head>
+<body>
+<div class="app">
+  <header>
+    <div class="logo">Likha Poha AI</div>
+    <div class="tagline">Your Personal Tutor</div>
+  </header>
+
+  <div class="progress" id="progress">
+    <div class="seg filled" id="seg-1"></div>
+    <div class="seg" id="seg-2"></div>
+  </div>
+
+  <main>
+    <!-- Screen 1: role select -->
+    <section class="screen active" id="screen-role">
+      <h1>Get a free, personalized study plan</h1>
+      <p class="sub">Takes 15 seconds. Tell us who you are.</p>
+      <div class="role-grid">
+        <button type="button" class="role-card" data-role="student">
+          <span class="emoji">🎓</span><span class="label">I'm a Student</span>
+        </button>
+        <button type="button" class="role-card" data-role="parent">
+          <span class="emoji">👨‍👩‍👧</span><span class="label">I'm a Parent</span>
+        </button>
+        <button type="button" class="role-card" data-role="teacher">
+          <span class="emoji">🏫</span><span class="label">I'm a Teacher / School</span>
+        </button>
+      </div>
+    </section>
+
+    <!-- Screen 2: follow-up -->
+    <section class="screen" id="screen-details">
+      <button type="button" class="back-link" id="back-btn">← Back</button>
+      <h1 id="details-title">A couple of details</h1>
+      <p class="sub" id="details-sub">So we can send the right plan.</p>
+
+      <form id="lead-form">
+        <label for="grade">Grade / Class</label>
+        <select id="grade" required>
+          <option value="" disabled selected>Select class</option>
+          <option>Class 5</option>
+          <option>Class 6</option>
+          <option>Class 7</option>
+          <option>Class 8</option>
+          <option>Class 9</option>
+          <option>Class 10</option>
+          <option>Class 11</option>
+          <option>Class 12</option>
+        </select>
+
+        <label for="count" id="count-label">How many children?</label>
+        <input type="number" id="count" min="1" value="1" inputmode="numeric" />
+
+        <label for="name">Your Name</label>
+        <input type="text" id="name" placeholder="Full name" required />
+
+        <label for="phone">WhatsApp Number</label>
+        <input type="tel" id="phone" placeholder="10-digit mobile number" required pattern="[0-9+ ]{8,15}" />
+
+        <div class="btn-row">
+          <button type="submit" class="primary" id="submit-btn">Submit</button>
+          <div class="error-msg" id="error-msg">Something went wrong. Please try again, or WhatsApp us directly.</div>
+        </div>
+      </form>
+    </section>
+
+    <!-- Screen 3: confirmation -->
+    <section class="screen confirm" id="screen-done">
+      <div class="check">✓</div>
+      <h1>Thanks, you're in!</h1>
+      <p class="sub">We'll reach out on WhatsApp within 24 hours with your free personalized study plan.</p>
+    </section>
+  </main>
+
+  <footer>LIKHA POHA AI · LIKHAPOHA.IN</footer>
+</div>
+
+<script>
+  // Same Render-hosted FastAPI backend the main app uses (api.likhapoha.in).
+  const ENDPOINT_URL = "https://api.likhapoha.in/api/leads";
+
+  const state = { role: null };
+
+  const screens = {
+    role: document.getElementById("screen-role"),
+    details: document.getElementById("screen-details"),
+    done: document.getElementById("screen-done"),
+  };
+  const progress = document.getElementById("progress");
+  const seg2 = document.getElementById("seg-2");
+
+  function showScreen(name) {
+    Object.values(screens).forEach((s) => s.classList.remove("active"));
+    screens[name].classList.add("active");
+    progress.style.display = name === "done" ? "none" : "flex";
+    seg2.classList.toggle("filled", name === "details");
+  }
+
+  const countLabels = {
+    student: "How many students in your class/section? (optional)",
+    parent: "How many children are you enrolling?",
+    teacher: "How many students do you teach?",
+  };
+
+  document.querySelectorAll(".role-card").forEach((card) => {
+    card.addEventListener("click", () => {
+      document.querySelectorAll(".role-card").forEach((c) => c.classList.remove("selected"));
+      card.classList.add("selected");
+      state.role = card.dataset.role;
+      document.getElementById("count-label").textContent = countLabels[state.role];
+      setTimeout(() => showScreen("details"), 150);
+    });
+  });
+
+  document.getElementById("back-btn").addEventListener("click", () => showScreen("role"));
+
+  document.getElementById("lead-form").addEventListener("submit", async (e) => {
+    e.preventDefault();
+    const submitBtn = document.getElementById("submit-btn");
+    const errorMsg = document.getElementById("error-msg");
+    errorMsg.style.display = "none";
+    submitBtn.disabled = true;
+    submitBtn.textContent = "Submitting...";
+
+    const payload = {
+      role: state.role,
+      grade: document.getElementById("grade").value,
+      count: document.getElementById("count").value,
+      name: document.getElementById("name").value.trim(),
+      phone: document.getElementById("phone").value.trim(),
+      source: "instagram_bio_link",
+    };
+
+    try {
+      const res = await fetch(ENDPOINT_URL, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(payload),
+      });
+      if (!res.ok) {
+        const body = await res.json().catch(() => ({}));
+        throw new Error(body.detail || `Request failed (${res.status})`);
+      }
+      showScreen("done");
+    } catch (err) {
+      errorMsg.style.display = "block";
+      submitBtn.disabled = false;
+      submitBtn.textContent = "Submit";
+    }
+  });
+</script>
+</body>
+</html>

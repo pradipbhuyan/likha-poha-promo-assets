@@ -1,0 +1,55 @@
+# likha-poha-promo-assets
+
+Static assets + GitHub Actions cron jobs that post Likha Poha AI's daily
+Instagram content, plus a lead-capture questionnaire for the "Learn More"
+CTA in those captions.
+
+## What's running
+
+- **`.github/workflows/daily-reel.yml`** — cron `30 10 * * *` (4pm IST).
+  Runs `scripts/post_next_reel.py`, which posts the next `pending` item in
+  `queue/reel_queue.json` to Instagram as a Reel via the Meta Graph API,
+  then commits the queue back with `status: posted`.
+- **`.github/workflows/daily-post.yml`** — cron 3x/day (8am, 2pm, 7pm IST).
+  Runs `scripts/post_next_content.py` for `queue/content_queue.json`
+  (Instagram feed + WhatsApp image posts).
+- Assets are served by GitHub Pages at
+  `https://pradipbhuyan.github.io/likha-poha-promo-assets/`.
+
+## Lead capture ("Learn More" CTA)
+
+Instagram's Graph API cannot attach interactive stickers (polls, quizzes,
+link buttons) to Reels or feed posts — that's app-UI-only, Stories-only.
+So the interactive layer is: **caption CTA -> bio link -> questionnaire ->
+email**.
+
+- `interest/index.html` — a 2-step mobile questionnaire, live at
+  `https://pradipbhuyan.github.io/likha-poha-promo-assets/interest/`:
+  1. Who are you? (Student / Parent / Teacher)
+  2. Grade, headcount (contextual per role), name, WhatsApp number -> Submit
+- It posts to `POST https://api.likhapoha.in/api/leads` — the same
+  Render-hosted FastAPI backend the main `cbse-tutor-platform` app runs
+  (see `backend/app/routes/leads.py` there). No separate service: the
+  lead is written to a Supabase table (`instagram_leads`, migration
+  `backend/migrations/20260826_instagram_leads.sql`) and emailed to
+  **likhapohaai@gmail.com** via the backend's existing Resend/SMTP email
+  service (`send_instagram_lead_notification` in `email_service.py`).
+  Rate-limited per IP (`LEAD_CAPTURE_LIMITER`, 5/min) since it's a public,
+  unauthenticated endpoint.
+- Every pending Instagram caption in `queue/content_queue.json` now ends
+  with `👉 Learn More — free study plan, link in bio` before the hashtags.
+
+### One-time setup
+
+1. In `cbse-tutor-platform`: run `backend/migrations/20260826_instagram_leads.sql`
+   against the Supabase project (SQL editor, same as any other migration
+   in that folder), then deploy the backend as usual — the new
+   `POST /api/leads` route and CORS entry for
+   `https://pradipbhuyan.github.io` ship with the next Render deploy.
+2. In the Instagram app: **Edit Profile -> Link** -> set it to
+   `https://pradipbhuyan.github.io/likha-poha-promo-assets/interest/`.
+   This is the only way to set an Instagram bio link — it isn't exposed
+   through the Graph API.
+
+Once the migration's run and the bio link is set, every new submission
+lands in Supabase and in your inbox within seconds.
