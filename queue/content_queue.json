@@ -684,7 +684,8 @@
     "channel": "whatsapp",
     "asset_path": "37-examprep-toefl.png",
     "caption": "*TOEFL iBT. One more exam, same platform.*\n\nYou don't need a separate app for every exam you're preparing for.\n\nlikhapoha.in",
-    "status": "pending"
+    "status": "posted",
+    "posted_at": "2026-08-26T14:13:16.137882+00:00"
   },
   {
     "id": "38-examprep-studyplan-instagram",
