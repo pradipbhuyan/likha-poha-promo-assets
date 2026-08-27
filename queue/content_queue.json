@@ -700,7 +700,8 @@
     "channel": "whatsapp",
     "asset_path": "38-examprep-studyplan.png",
     "caption": "*A study plan that tells you exactly what's next.*\n\nRead the concept, note the key points, practice questions, then simulate the real test.\n\nlikhapoha.in",
-    "status": "pending"
+    "status": "posted",
+    "posted_at": "2026-08-27T19:11:28.715117+00:00"
   },
   {
     "id": "39-examprep-simulation-instagram",
