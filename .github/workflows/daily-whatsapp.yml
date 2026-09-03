@@ -1,10 +1,9 @@
-name: Daily Instagram Post
+name: Daily WhatsApp Post
 
 on:
   schedule:
-    - cron: "30 2 * * *"   # 08:00 IST
-    - cron: "30 8 * * *"   # 14:00 IST
-    - cron: "30 13 * * *"  # 19:00 IST
+    - cron: "0 5 * * *"    # 10:30 IST
+    - cron: "30 11 * * *"  # 17:00 IST
   workflow_dispatch: {}
 
 permissions:
@@ -20,16 +19,17 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Post next queued Instagram post
+      - name: Post next queued WhatsApp item
         env:
           META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
-          IG_BUSINESS_ACCOUNT_ID: ${{ secrets.IG_BUSINESS_ACCOUNT_ID }}
-        run: python scripts/post_next_instagram_post.py
+          WHATSAPP_PHONE_NUMBER_ID: ${{ secrets.WHATSAPP_PHONE_NUMBER_ID }}
+          WHATSAPP_TEST_RECIPIENT: ${{ secrets.WHATSAPP_TEST_RECIPIENT }}
+        run: python scripts/post_next_whatsapp_post.py
 
       - name: Commit updated queue
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add queue/instagram_post_queue.json
-          git diff --staged --quiet || git commit -m "Mark next Instagram post as posted [skip ci]"
+          git add queue/whatsapp_queue.json
+          git diff --staged --quiet || git commit -m "Mark next WhatsApp post as posted [skip ci]"
           git push

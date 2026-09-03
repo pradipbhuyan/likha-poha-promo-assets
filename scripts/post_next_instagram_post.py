@@ -1,7 +1,15 @@
-"""Post the next pending item in queue/content_queue.json to Instagram or WhatsApp.
+"""Post the next pending item in queue/instagram_post_queue.json to
+Instagram as a feed post.
 
-Run daily by .github/workflows/daily-post.yml. Uses only the Python standard
-library (urllib) so the GitHub Actions job needs no pip install step.
+Run 3x/day by .github/workflows/daily-post.yml. Split out from the former
+combined post_next_content.py so Instagram's cadence runs independently of
+WhatsApp's (see post_next_whatsapp_post.py) — each item's "lang" field
+("en"/"hi") is informational only; the 2 English : 1 Hindi daily ratio is
+guaranteed purely by how queue/instagram_post_queue.json's pending items
+are ordered, not by any logic here.
+
+Uses only the Python standard library (urllib) so the GitHub Actions job
+needs no pip install step.
 """
 import json
 import os
@@ -12,12 +20,10 @@ import urllib.error
 from datetime import datetime, timezone
 
 GRAPH_API = "https://graph.facebook.com/v20.0"
-QUEUE_PATH = os.path.join(os.path.dirname(__file__), "..", "queue", "content_queue.json")
+QUEUE_PATH = os.path.join(os.path.dirname(__file__), "..", "queue", "instagram_post_queue.json")
 
 ACCESS_TOKEN = os.environ["META_ACCESS_TOKEN"].strip()
 IG_BUSINESS_ACCOUNT_ID = os.environ["IG_BUSINESS_ACCOUNT_ID"].strip()
-WHATSAPP_PHONE_NUMBER_ID = os.environ["WHATSAPP_PHONE_NUMBER_ID"].strip()
-WHATSAPP_TEST_RECIPIENT = os.environ["WHATSAPP_TEST_RECIPIENT"].strip()
 PUBLIC_ASSET_BASE_URL = os.environ.get(
     "PUBLIC_ASSET_BASE_URL", "https://pradipbhuyan.github.io/likha-poha-promo-assets"
 ).strip()
@@ -26,13 +32,6 @@ PUBLIC_ASSET_BASE_URL = os.environ.get(
 def http_post_form(url, params):
     data = urllib.parse.urlencode(params).encode("utf-8")
     req = urllib.request.Request(url, data=data, method="POST")
-    with urllib.request.urlopen(req) as resp:
-        return json.loads(resp.read().decode("utf-8"))
-
-
-def http_post_json(url, payload, headers):
-    data = json.dumps(payload).encode("utf-8")
-    req = urllib.request.Request(url, data=data, method="POST", headers=headers)
     with urllib.request.urlopen(req) as resp:
         return json.loads(resp.read().decode("utf-8"))
 
@@ -55,37 +54,18 @@ def post_instagram(item):
     )
 
 
-def post_whatsapp(item):
-    image_url = image_url_for(item["asset_path"])
-    http_post_json(
-        f"{GRAPH_API}/{WHATSAPP_PHONE_NUMBER_ID}/messages",
-        {
-            "messaging_product": "whatsapp",
-            "to": WHATSAPP_TEST_RECIPIENT,
-            "type": "image",
-            "image": {"link": image_url, "caption": item["caption"]},
-        },
-        {"Authorization": f"Bearer {ACCESS_TOKEN}", "Content-Type": "application/json"},
-    )
-
-
 def main():
     with open(QUEUE_PATH) as f:
         queue = json.load(f)
 
     next_item = next((q for q in queue if q["status"] == "pending"), None)
     if next_item is None:
-        print("Queue empty — nothing pending. Nothing to do.")
+        print("Instagram post queue empty — nothing pending. Nothing to do.")
         return
 
-    print(f"Posting {next_item['id']} ({next_item['channel']})...")
+    print(f"Posting {next_item['id']} (lang={next_item.get('lang', 'en')})...")
     try:
-        if next_item["channel"] == "instagram":
-            post_instagram(next_item)
-        elif next_item["channel"] == "whatsapp":
-            post_whatsapp(next_item)
-        else:
-            raise ValueError(f"Unknown channel: {next_item['channel']}")
+        post_instagram(next_item)
     except urllib.error.HTTPError as e:
         print(f"FAILED: {e.code} {e.read().decode('utf-8')}", file=sys.stderr)
         sys.exit(1)
