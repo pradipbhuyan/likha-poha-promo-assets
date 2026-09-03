@@ -225,7 +225,8 @@
     "media_type": "REELS",
     "asset_path": "R23-teacherdash.mp4",
     "caption": "Grading. Lesson plans. Every student's progress. Teaching is a lot.\n\nThe Teacher Dashboard flags students who need help automatically, gives you a ready lesson plan for every chapter, and builds a full test paper in one click.\n\nFree for up to 10 students.\n\nlikhapoha.in\n\n👉 Learn More — get started free, link in bio\n\n#CBSE #NCERT #Teachers #TeacherLife #EdTechIndia #ClassroomManagement",
-    "status": "pending",
+    "status": "posted",
+    "posted_at": "2026-08-27T20:42:11.870615+00:00",
     "lang": "en"
   },
   {
@@ -234,6 +235,75 @@
     "media_type": "REELS",
     "asset_path": "R24-platformchat.mp4",
     "caption": "No more chasing phone numbers or joining another WhatsApp group.\n\nPlatform Chat lets students, parents, and teachers message each other directly inside Likha Poha AI — text, photos, even voice notes.\n\nlikhapoha.in\n\n👉 Learn More — free study plan, link in bio\n\n#CBSE #NCERT #ParentTeacherCommunication #EdTechIndia #StudySmart",
+    "status": "posted",
+    "posted_at": "2026-08-28T21:13:36.780227+00:00",
+    "lang": "en"
+  },
+  {
+    "id": "R05-parentdash-c2",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "R05-parentdash.mp4",
+    "caption": "Stop guessing. Start knowing.\n\nThe Parent Dashboard shows every child's progress in real time, with weak areas flagged automatically.\n\nlikhapoha.in\n\n👉 Learn More — free study plan, link in bio\n\n#CBSE #NCERT #AITutor #ExamPrep #StudyMotivation",
+    "status": "posted",
+    "posted_at": "2026-08-29T15:12:58.018667+00:00",
+    "lang": "en"
+  },
+  {
+    "id": "R13-neet-c2",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "R13-neet.mp4",
+    "caption": "NEET UG. Structured, not scattered.\n\nBiology, Physics, and Chemistry — organized into one clear structured path, instead of ten different apps.\n\nlikhapoha.in\n\n👉 Learn More — free study plan, link in bio\n\n#CBSE #NCERT #AITutor #ExamPrep #StudyMotivation",
+    "status": "posted",
+    "posted_at": "2026-08-30T14:56:22.387549+00:00",
+    "lang": "en"
+  },
+  {
+    "id": "R07-boardpapers-c2",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "R07-boardpapers.mp4",
+    "caption": "Practice the real exam pattern.\n\nBoard Papers gives you a full decade of real CBSE papers, every one with official answers.\n\nlikhapoha.in\n\n👉 Learn More — free study plan, link in bio\n\n#CBSE #NCERT #AITutor #ExamPrep #StudyMotivation",
+    "status": "posted",
+    "posted_at": "2026-08-31T17:41:40.230143+00:00",
+    "lang": "en"
+  },
+  {
+    "id": "R06-formula-c2",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "R06-formula.mp4",
+    "caption": "Every formula. One search away.\n\nThe Formula Sheet covers every chapter's formulas, with memory tips built in.\n\nlikhapoha.in\n\n👉 Learn More — free study plan, link in bio\n\n#CBSE #NCERT #AITutor #ExamPrep #StudyMotivation",
+    "status": "posted",
+    "posted_at": "2026-09-01T15:06:32.824098+00:00",
+    "lang": "en"
+  },
+  {
+    "id": "R23-teacherdash-c2",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "R23-teacherdash.mp4",
+    "caption": "Grading. Lesson plans. Every student's progress. Teaching is a lot.\n\nThe Teacher Dashboard flags students who need help automatically, gives you a ready lesson plan for every chapter, and builds a full test paper in one click.\n\nFree for up to 10 students.\n\nlikhapoha.in\n\n👉 Learn More — get started free, link in bio\n\n#CBSE #NCERT #Teachers #TeacherLife #EdTechIndia #ClassroomManagement",
+    "status": "posted",
+    "posted_at": "2026-09-02T14:38:30.619585+00:00",
+    "lang": "en"
+  },
+  {
+    "id": "R21-parentweekly-c2",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "R21-parentweekly.mp4",
+    "caption": "One glance. Every subject. Every child.\n\nSee exactly how each subject is going — mock test scores, weak topics, and streaks, all in one dashboard.\n\nlikhapoha.in\n\n👉 Learn More — free study plan, link in bio\n\n#CBSE #NCERT #AITutor #ExamPrep #StudyMotivation",
+    "status": "pending",
+    "lang": "en"
+  },
+  {
+    "id": "R03-lessons-c2",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "R03-lessons.mp4",
+    "caption": "Your NCERT textbook. Reimagined.\n\nAI Lessons walk through every chapter step by step, grounded in your actual NCERT textbook.\n\nlikhapoha.in\n\n👉 Learn More — free study plan, link in bio\n\n#CBSE #NCERT #AITutor #ExamPrep #StudyMotivation",
     "status": "pending",
     "lang": "en"
   },
@@ -247,20 +317,20 @@
     "status": "pending"
   },
   {
-    "id": "R05-parentdash-c2",
+    "id": "R09-pricing-c2",
     "channel": "instagram",
     "media_type": "REELS",
-    "asset_path": "R05-parentdash.mp4",
-    "caption": "Stop guessing. Start knowing.\n\nThe Parent Dashboard shows every child's progress in real time, with weak areas flagged automatically.\n\nlikhapoha.in\n\n👉 Learn More — free study plan, link in bio\n\n#CBSE #NCERT #AITutor #ExamPrep #StudyMotivation",
+    "asset_path": "R09-pricing.mp4",
+    "caption": "Less than one hour of tuition. All month.\n\nPrivate tuition costs two to eight thousand rupees a month, per subject.\n\nlikhapoha.in\n\n👉 Learn More — free study plan, link in bio\n\n#CBSE #NCERT #AITutor #ExamPrep #StudyMotivation",
     "status": "pending",
     "lang": "en"
   },
   {
-    "id": "R13-neet-c2",
+    "id": "R02-askdoubt-c2",
     "channel": "instagram",
     "media_type": "REELS",
-    "asset_path": "R13-neet.mp4",
-    "caption": "NEET UG. Structured, not scattered.\n\nBiology, Physics, and Chemistry — organized into one clear structured path, instead of ten different apps.\n\nlikhapoha.in\n\n👉 Learn More — free study plan, link in bio\n\n#CBSE #NCERT #AITutor #ExamPrep #StudyMotivation",
+    "asset_path": "R02-askdoubt.mp4",
+    "caption": "It's 11pm. You have a doubt.\n\nAsk Doubt gives instant, chapter-specific answers, any time of day, no scheduling needed.\n\nlikhapoha.in\n\n👉 Learn More — free study plan, link in bio\n\n#CBSE #NCERT #AITutor #ExamPrep #StudyMotivation",
     "status": "pending",
     "lang": "en"
   },
@@ -274,20 +344,20 @@
     "status": "pending"
   },
   {
-    "id": "R07-boardpapers-c2",
+    "id": "R01-overview-c2",
     "channel": "instagram",
     "media_type": "REELS",
-    "asset_path": "R07-boardpapers.mp4",
-    "caption": "Practice the real exam pattern.\n\nBoard Papers gives you a full decade of real CBSE papers, every one with official answers.\n\nlikhapoha.in\n\n👉 Learn More — free study plan, link in bio\n\n#CBSE #NCERT #AITutor #ExamPrep #StudyMotivation",
+    "asset_path": "R01-overview.mp4",
+    "caption": "3 things you didn't know Likha Poha AI could do.\n\nGet instant, chapter-specific answers to any doubt, any time.\n\nlikhapoha.in\n\n👉 Learn More — free study plan, link in bio\n\n#CBSE #NCERT #AITutor #ExamPrep #StudyMotivation",
     "status": "pending",
     "lang": "en"
   },
   {
-    "id": "R06-formula-c2",
+    "id": "R20-analytics-c2",
     "channel": "instagram",
     "media_type": "REELS",
-    "asset_path": "R06-formula.mp4",
-    "caption": "Every formula. One search away.\n\nThe Formula Sheet covers every chapter's formulas, with memory tips built in.\n\nlikhapoha.in\n\n👉 Learn More — free study plan, link in bio\n\n#CBSE #NCERT #AITutor #ExamPrep #StudyMotivation",
+    "asset_path": "R20-analytics.mp4",
+    "caption": "See exactly which chapters need work.\n\nAnalytics tracks real progress, chapter by chapter, so you know exactly what to revise.\n\nlikhapoha.in\n\n👉 Learn More — free study plan, link in bio\n\n#CBSE #NCERT #AITutor #ExamPrep #StudyMotivation",
     "status": "pending",
     "lang": "en"
   },
@@ -301,20 +371,20 @@
     "status": "pending"
   },
   {
-    "id": "R23-teacherdash-c2",
+    "id": "R19-leaderboard-c2",
     "channel": "instagram",
     "media_type": "REELS",
-    "asset_path": "R23-teacherdash.mp4",
-    "caption": "Grading. Lesson plans. Every student's progress. Teaching is a lot.\n\nThe Teacher Dashboard flags students who need help automatically, gives you a ready lesson plan for every chapter, and builds a full test paper in one click.\n\nFree for up to 10 students.\n\nlikhapoha.in\n\n👉 Learn More — get started free, link in bio\n\n#CBSE #NCERT #Teachers #TeacherLife #EdTechIndia #ClassroomManagement",
+    "asset_path": "R19-leaderboard.mp4",
+    "caption": "Compete. Climb. Repeat.\n\nThe Leaderboard keeps students coming back, with streaks and X.P. to climb the ranks.\n\nlikhapoha.in\n\n👉 Learn More — free study plan, link in bio\n\n#CBSE #NCERT #AITutor #ExamPrep #StudyMotivation",
     "status": "pending",
     "lang": "en"
   },
   {
-    "id": "R21-parentweekly-c2",
+    "id": "R11-examprep-overview-c2",
     "channel": "instagram",
     "media_type": "REELS",
-    "asset_path": "R21-parentweekly.mp4",
-    "caption": "One glance. Every subject. Every child.\n\nSee exactly how each subject is going — mock test scores, weak topics, and streaks, all in one dashboard.\n\nlikhapoha.in\n\n👉 Learn More — free study plan, link in bio\n\n#CBSE #NCERT #AITutor #ExamPrep #StudyMotivation",
+    "asset_path": "R11-examprep-overview.mp4",
+    "caption": "One platform. Six global exams.\n\nExam Prep Center brings JEE Main, NEET UG, CUET UG, SAT, IELTS, and TOEFL iBT prep into one structured dashboard.\n\nlikhapoha.in\n\n👉 Learn More — free study plan, link in bio\n\n#CBSE #NCERT #AITutor #ExamPrep #StudyMotivation",
     "status": "pending",
     "lang": "en"
   },
@@ -328,20 +398,20 @@
     "status": "pending"
   },
   {
-    "id": "R03-lessons-c2",
+    "id": "R16-myth-examprep-c2",
     "channel": "instagram",
     "media_type": "REELS",
-    "asset_path": "R03-lessons.mp4",
-    "caption": "Your NCERT textbook. Reimagined.\n\nAI Lessons walk through every chapter step by step, grounded in your actual NCERT textbook.\n\nlikhapoha.in\n\n👉 Learn More — free study plan, link in bio\n\n#CBSE #NCERT #AITutor #ExamPrep #StudyMotivation",
+    "asset_path": "R16-myth-examprep.mp4",
+    "caption": "\"I need a different app for every exam.\"\n\nFact — Exam Prep Center brings JEE, NEET, CUET, SAT, IELTS, and TOEFL prep into one place.\n\nlikhapoha.in\n\n👉 Learn More — free study plan, link in bio\n\n#CBSE #NCERT #AITutor #ExamPrep #StudyMotivation",
     "status": "pending",
     "lang": "en"
   },
   {
-    "id": "R09-pricing-c2",
+    "id": "R14-learnmore-c2",
     "channel": "instagram",
     "media_type": "REELS",
-    "asset_path": "R09-pricing.mp4",
-    "caption": "Less than one hour of tuition. All month.\n\nPrivate tuition costs two to eight thousand rupees a month, per subject.\n\nlikhapoha.in\n\n👉 Learn More — free study plan, link in bio\n\n#CBSE #NCERT #AITutor #ExamPrep #StudyMotivation",
+    "asset_path": "R14-learnmore.mp4",
+    "caption": "Stuck on a concept? Watch it explained.\n\nLearn More is a curated video library, matched to your exact grade, subject, and chapter.\n\nlikhapoha.in\n\n#CBSE #NCERT #AITutor #ExamPrep #StudyMotivation",
     "status": "pending",
     "lang": "en"
   },
@@ -355,20 +425,20 @@
     "status": "pending"
   },
   {
-    "id": "R02-askdoubt-c2",
+    "id": "R17-exemplar-c2",
     "channel": "instagram",
     "media_type": "REELS",
-    "asset_path": "R02-askdoubt.mp4",
-    "caption": "It's 11pm. You have a doubt.\n\nAsk Doubt gives instant, chapter-specific answers, any time of day, no scheduling needed.\n\nlikhapoha.in\n\n👉 Learn More — free study plan, link in bio\n\n#CBSE #NCERT #AITutor #ExamPrep #StudyMotivation",
+    "asset_path": "R17-exemplar.mp4",
+    "caption": "Beyond the textbook.\n\nExemplar Research gives tougher, exam-level practice beyond the standard textbook questions.\n\nlikhapoha.in\n\n👉 Learn More — free study plan, link in bio\n\n#CBSE #NCERT #AITutor #ExamPrep #StudyMotivation",
     "status": "pending",
     "lang": "en"
   },
   {
-    "id": "R01-overview-c2",
+    "id": "R15-pov-doubt-c2",
     "channel": "instagram",
     "media_type": "REELS",
-    "asset_path": "R01-overview.mp4",
-    "caption": "3 things you didn't know Likha Poha AI could do.\n\nGet instant, chapter-specific answers to any doubt, any time.\n\nlikhapoha.in\n\n👉 Learn More — free study plan, link in bio\n\n#CBSE #NCERT #AITutor #ExamPrep #StudyMotivation",
+    "asset_path": "R15-pov-doubt.mp4",
+    "caption": "POV: It's 11pm and you have a doubt.\n\nYou don't wait until Monday. You just ask, and get an instant, step-by-step answer.\n\nlikhapoha.in\n\n👉 Learn More — free study plan, link in bio\n\n#CBSE #NCERT #AITutor #ExamPrep #StudyMotivation",
     "status": "pending",
     "lang": "en"
   },
@@ -382,20 +452,20 @@
     "status": "pending"
   },
   {
-    "id": "R20-analytics-c2",
+    "id": "R08-grade1112-c2",
     "channel": "instagram",
     "media_type": "REELS",
-    "asset_path": "R20-analytics.mp4",
-    "caption": "See exactly which chapters need work.\n\nAnalytics tracks real progress, chapter by chapter, so you know exactly what to revise.\n\nlikhapoha.in\n\n👉 Learn More — free study plan, link in bio\n\n#CBSE #NCERT #AITutor #ExamPrep #StudyMotivation",
+    "asset_path": "R08-grade1112.mp4",
+    "caption": "Now for Class 11 & 12. Now in Hindi.\n\nPick a stream — P.C.M., P.C.B., P.C.M.B., Commerce, or Humanities.\n\nlikhapoha.in\n\n👉 Learn More — free study plan, link in bio\n\n#CBSE #NCERT #AITutor #ExamPrep #StudyMotivation",
     "status": "pending",
     "lang": "en"
   },
   {
-    "id": "R19-leaderboard-c2",
+    "id": "R24-platformchat-c2",
     "channel": "instagram",
     "media_type": "REELS",
-    "asset_path": "R19-leaderboard.mp4",
-    "caption": "Compete. Climb. Repeat.\n\nThe Leaderboard keeps students coming back, with streaks and X.P. to climb the ranks.\n\nlikhapoha.in\n\n👉 Learn More — free study plan, link in bio\n\n#CBSE #NCERT #AITutor #ExamPrep #StudyMotivation",
+    "asset_path": "R24-platformchat.mp4",
+    "caption": "No more chasing phone numbers or joining another WhatsApp group.\n\nPlatform Chat lets students, parents, and teachers message each other directly inside Likha Poha AI — text, photos, even voice notes.\n\nlikhapoha.in\n\n👉 Learn More — free study plan, link in bio\n\n#CBSE #NCERT #ParentTeacherCommunication #EdTechIndia #StudySmart",
     "status": "pending",
     "lang": "en"
   },
@@ -409,20 +479,20 @@
     "status": "pending"
   },
   {
-    "id": "R11-examprep-overview-c2",
+    "id": "R22-childworkspace-c2",
     "channel": "instagram",
     "media_type": "REELS",
-    "asset_path": "R11-examprep-overview.mp4",
-    "caption": "One platform. Six global exams.\n\nExam Prep Center brings JEE Main, NEET UG, CUET UG, SAT, IELTS, and TOEFL iBT prep into one structured dashboard.\n\nlikhapoha.in\n\n👉 Learn More — free study plan, link in bio\n\n#CBSE #NCERT #AITutor #ExamPrep #StudyMotivation",
+    "asset_path": "R22-childworkspace.mp4",
+    "caption": "Tonight's plan, for your child, exactly.\n\nOpen your child's workspace to see exactly what's weak and what to study tonight — no guessing required.\n\nlikhapoha.in\n\n👉 Learn More — free study plan, link in bio\n\n#CBSE #NCERT #AITutor #ExamPrep #StudyMotivation",
     "status": "pending",
     "lang": "en"
   },
   {
-    "id": "R16-myth-examprep-c2",
+    "id": "R18-dayinlife-c2",
     "channel": "instagram",
     "media_type": "REELS",
-    "asset_path": "R16-myth-examprep.mp4",
-    "caption": "\"I need a different app for every exam.\"\n\nFact — Exam Prep Center brings JEE, NEET, CUET, SAT, IELTS, and TOEFL prep into one place.\n\nlikhapoha.in\n\n👉 Learn More — free study plan, link in bio\n\n#CBSE #NCERT #AITutor #ExamPrep #StudyMotivation",
+    "asset_path": "R18-dayinlife.mp4",
+    "caption": "A day in the life, with Likha Poha AI.\n\nStart the day with the Dashboard — streaks, X.P., and today's study plan.\n\nlikhapoha.in\n\n👉 Learn More — free study plan, link in bio\n\n#CBSE #NCERT #AITutor #ExamPrep #StudyMotivation",
     "status": "pending",
     "lang": "en"
   },
@@ -434,96 +504,6 @@
     "asset_path": "H08-pricing.mp4",
     "caption": "ट्यूशन के एक घंटे से भी कम कीमत में, पूरा महीना 💰\n\nLikha Poha AI Premium — ₹299/महीना।\n\n👉 likhapoha.in\n\n#CBSE #LikhaPohaAI #Premium #NCERT #पढ़ाई",
     "status": "pending"
-  },
-  {
-    "id": "R14-learnmore-c2",
-    "channel": "instagram",
-    "media_type": "REELS",
-    "asset_path": "R14-learnmore.mp4",
-    "caption": "Stuck on a concept? Watch it explained.\n\nLearn More is a curated video library, matched to your exact grade, subject, and chapter.\n\nlikhapoha.in\n\n#CBSE #NCERT #AITutor #ExamPrep #StudyMotivation",
-    "status": "pending",
-    "lang": "en"
-  },
-  {
-    "id": "R17-exemplar-c2",
-    "channel": "instagram",
-    "media_type": "REELS",
-    "asset_path": "R17-exemplar.mp4",
-    "caption": "Beyond the textbook.\n\nExemplar Research gives tougher, exam-level practice beyond the standard textbook questions.\n\nlikhapoha.in\n\n👉 Learn More — free study plan, link in bio\n\n#CBSE #NCERT #AITutor #ExamPrep #StudyMotivation",
-    "status": "pending",
-    "lang": "en"
-  },
-  {
-    "id": "H09-myth-ai-rote",
-    "channel": "instagram",
-    "media_type": "REELS",
-    "lang": "hi",
-    "asset_path": "H09-myth-ai-rote.mp4",
-    "caption": "मिथक: AI सिर्फ़ जवाब रटवाता है।\n\nसच: Ask Doubt हर जवाब स्टेप-बाय-स्टेप समझाता है — रटना नहीं, समझना असली मकसद है।\n\n👉 likhapoha.in\n\n#CBSE #AskDoubt #LikhaPohaAI #NCERT #मिथकबनामसच",
-    "status": "pending"
-  },
-  {
-    "id": "R15-pov-doubt-c2",
-    "channel": "instagram",
-    "media_type": "REELS",
-    "asset_path": "R15-pov-doubt.mp4",
-    "caption": "POV: It's 11pm and you have a doubt.\n\nYou don't wait until Monday. You just ask, and get an instant, step-by-step answer.\n\nlikhapoha.in\n\n👉 Learn More — free study plan, link in bio\n\n#CBSE #NCERT #AITutor #ExamPrep #StudyMotivation",
-    "status": "pending",
-    "lang": "en"
-  },
-  {
-    "id": "R08-grade1112-c2",
-    "channel": "instagram",
-    "media_type": "REELS",
-    "asset_path": "R08-grade1112.mp4",
-    "caption": "Now for Class 11 & 12. Now in Hindi.\n\nPick a stream — P.C.M., P.C.B., P.C.M.B., Commerce, or Humanities.\n\nlikhapoha.in\n\n👉 Learn More — free study plan, link in bio\n\n#CBSE #NCERT #AITutor #ExamPrep #StudyMotivation",
-    "status": "pending",
-    "lang": "en"
-  },
-  {
-    "id": "H10-beyond-textbook",
-    "channel": "instagram",
-    "media_type": "REELS",
-    "lang": "hi",
-    "asset_path": "H10-beyond-textbook.mp4",
-    "caption": "किताब से आगे की तैयारी 📖\n\nExemplar Research और Board Papers — बोर्ड एग्ज़ाम जैसी असली प्रैक्टिस।\n\n👉 likhapoha.in\n\n#CBSE #ExemplarResearch #BoardPapers #LikhaPohaAI #NCERT",
-    "status": "pending"
-  },
-  {
-    "id": "R24-platformchat-c2",
-    "channel": "instagram",
-    "media_type": "REELS",
-    "asset_path": "R24-platformchat.mp4",
-    "caption": "No more chasing phone numbers or joining another WhatsApp group.\n\nPlatform Chat lets students, parents, and teachers message each other directly inside Likha Poha AI — text, photos, even voice notes.\n\nlikhapoha.in\n\n👉 Learn More — free study plan, link in bio\n\n#CBSE #NCERT #ParentTeacherCommunication #EdTechIndia #StudySmart",
-    "status": "pending",
-    "lang": "en"
-  },
-  {
-    "id": "R22-childworkspace-c2",
-    "channel": "instagram",
-    "media_type": "REELS",
-    "asset_path": "R22-childworkspace.mp4",
-    "caption": "Tonight's plan, for your child, exactly.\n\nOpen your child's workspace to see exactly what's weak and what to study tonight — no guessing required.\n\nlikhapoha.in\n\n👉 Learn More — free study plan, link in bio\n\n#CBSE #NCERT #AITutor #ExamPrep #StudyMotivation",
-    "status": "pending",
-    "lang": "en"
-  },
-  {
-    "id": "H11-full-platform-tour",
-    "channel": "instagram",
-    "media_type": "REELS",
-    "lang": "hi",
-    "asset_path": "H11-full-platform-tour.mp4",
-    "caption": "Likha Poha AI का पूरा टूर — एक ही रील में 🎬\n\nAI Lessons, Ask Doubt, Mock Test Studio, Board Papers, Formula Sheet, Exemplar Research, Analytics, Leaderboard, Platform Chat, Parent Dashboard और Teacher Dashboard — हर फीचर, असली स्क्रीन पर।\n\n👉 likhapoha.in\n\n#CBSE #LikhaPohaAI #NCERT #AILessons #ParentDashboard #TeacherDashboard",
-    "status": "pending"
-  },
-  {
-    "id": "R18-dayinlife-c2",
-    "channel": "instagram",
-    "media_type": "REELS",
-    "asset_path": "R18-dayinlife.mp4",
-    "caption": "A day in the life, with Likha Poha AI.\n\nStart the day with the Dashboard — streaks, X.P., and today's study plan.\n\nlikhapoha.in\n\n👉 Learn More — free study plan, link in bio\n\n#CBSE #NCERT #AITutor #ExamPrep #StudyMotivation",
-    "status": "pending",
-    "lang": "en"
   },
   {
     "id": "R12-jee-c2",
@@ -544,6 +524,15 @@
     "lang": "en"
   },
   {
+    "id": "H09-myth-ai-rote",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "lang": "hi",
+    "asset_path": "H09-myth-ai-rote.mp4",
+    "caption": "मिथक: AI सिर्फ़ जवाब रटवाता है।\n\nसच: Ask Doubt हर जवाब स्टेप-बाय-स्टेप समझाता है — रटना नहीं, समझना असली मकसद है।\n\n👉 likhapoha.in\n\n#CBSE #AskDoubt #LikhaPohaAI #NCERT #मिथकबनामसच",
+    "status": "pending"
+  },
+  {
     "id": "R17-exemplar-c3",
     "channel": "instagram",
     "media_type": "REELS",
@@ -562,6 +551,15 @@
     "lang": "en"
   },
   {
+    "id": "H10-beyond-textbook",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "lang": "hi",
+    "asset_path": "H10-beyond-textbook.mp4",
+    "caption": "किताब से आगे की तैयारी 📖\n\nExemplar Research और Board Papers — बोर्ड एग्ज़ाम जैसी असली प्रैक्टिस।\n\n👉 likhapoha.in\n\n#CBSE #ExemplarResearch #BoardPapers #LikhaPohaAI #NCERT",
+    "status": "pending"
+  },
+  {
     "id": "R01-overview-c3",
     "channel": "instagram",
     "media_type": "REELS",
@@ -578,6 +576,15 @@
     "caption": "Tonight's plan, for your child, exactly.\n\nOpen your child's workspace to see exactly what's weak and what to study tonight — no guessing required.\n\nlikhapoha.in\n\n👉 Learn More — free study plan, link in bio\n\n#CBSE #NCERT #AITutor #ExamPrep #StudyMotivation",
     "status": "pending",
     "lang": "en"
+  },
+  {
+    "id": "H11-full-platform-tour",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "lang": "hi",
+    "asset_path": "H11-full-platform-tour.mp4",
+    "caption": "Likha Poha AI का पूरा टूर — एक ही रील में 🎬\n\nAI Lessons, Ask Doubt, Mock Test Studio, Board Papers, Formula Sheet, Exemplar Research, Analytics, Leaderboard, Platform Chat, Parent Dashboard और Teacher Dashboard — हर फीचर, असली स्क्रीन पर।\n\n👉 likhapoha.in\n\n#CBSE #LikhaPohaAI #NCERT #AILessons #ParentDashboard #TeacherDashboard",
+    "status": "pending"
   },
   {
     "id": "R11-examprep-overview-c3",
