@@ -490,8 +490,9 @@
     "channel": "whatsapp",
     "asset_path": "03-motivation-3.png",
     "caption": "*Small wins today. Big results on exam day.*\n\nProgress you can't see yet is still progress.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-09-04T09:14:04.757511+00:00"
   },
   {
     "id": "04-motivation-4-whatsapp-c2",
