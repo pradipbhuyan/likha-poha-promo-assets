@@ -508,8 +508,9 @@
     "channel": "whatsapp",
     "asset_path": "05-motivation-5.png",
     "caption": "*Discipline beats motivation when motivation runs out.*\n\nMotivation is a spark. Discipline is what keeps the fire going.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-09-05T08:43:51.764716+00:00"
   },
   {
     "id": "06-motivation-6-whatsapp-c2",
