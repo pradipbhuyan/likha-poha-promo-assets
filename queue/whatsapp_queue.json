@@ -553,8 +553,9 @@
     "channel": "whatsapp",
     "asset_path": "10-tip-2.png",
     "caption": "*Explain it out loud. If you can teach it, you know it.*\n\nTeaching an imaginary student reveals exactly what you don't understand yet.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-09-07T16:35:42.433376+00:00"
   },
   {
     "id": "11-tip-3-whatsapp-c2",
