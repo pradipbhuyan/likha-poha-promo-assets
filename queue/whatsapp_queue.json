@@ -589,8 +589,9 @@
     "channel": "whatsapp",
     "asset_path": "14-tip-6.png",
     "caption": "*Sleep isn't the enemy of studying. It's the memory button.*\n\nYour brain files away what you learned while you sleep — skipping it costs you the lesson.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-09-09T15:13:54.983589+00:00"
   },
   {
     "id": "15-feature-doubt-whatsapp-c2",
