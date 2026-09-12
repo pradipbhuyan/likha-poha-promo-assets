@@ -643,8 +643,9 @@
     "channel": "whatsapp",
     "asset_path": "20-feature-boardpapers.png",
     "caption": "*Practice on the real exam pattern. Not guesswork.*\n\nPrevious years' board papers, worked through step by step.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-09-12T14:17:05.274335+00:00"
   },
   {
     "id": "21-myth-1-whatsapp-c2",
