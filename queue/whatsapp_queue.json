@@ -652,8 +652,9 @@
     "channel": "whatsapp",
     "asset_path": "21-myth-1.png",
     "caption": "*\"AI tutors give generic answers.\"*\n\nLikha Poha AI is grounded in your child's actual NCERT chapter — not a generic internet answer.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-09-13T09:54:12.948509+00:00"
   },
   {
     "id": "22-myth-2-whatsapp-c2",
