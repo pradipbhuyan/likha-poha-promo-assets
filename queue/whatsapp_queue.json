@@ -661,8 +661,9 @@
     "channel": "whatsapp",
     "asset_path": "22-myth-2.png",
     "caption": "*\"More screen time = less learning.\"*\n\n20 focused minutes of AI-guided practice beats an hour of passive scrolling.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-09-13T14:58:25.006878+00:00"
   },
   {
     "id": "23-myth-3-whatsapp-c2",
