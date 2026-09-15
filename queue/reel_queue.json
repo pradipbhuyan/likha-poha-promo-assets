@@ -410,132 +410,6 @@
     "posted_at": "2026-09-14T16:28:25.284544+00:00"
   },
   {
-    "id": "b3-reel-parentdashboard-en-reel",
-    "channel": "instagram",
-    "media_type": "REELS",
-    "asset_path": "reels/reel-parentdashboard.mp4",
-    "caption": "You don't need daily updates to know how they're doing.\n\nParent Dashboard shows tests taken, average score, and what needs attention — at a glance.\n\nlikhapoha.in\n\n#CBSE #NCERT #AITutor #ExamPrep",
-    "status": "pending",
-    "lang": "en"
-  },
-  {
-    "id": "b3-reel-parentdashboard-hi-reel",
-    "channel": "instagram",
-    "media_type": "REELS",
-    "asset_path": "reels/reel-parentdashboard-hi.mp4",
-    "caption": "बच्चे से रोज़ पूछने की ज़रूरत नहीं कि पढ़ाई कैसी चल रही है।\n\nParent Dashboard में टेस्ट, औसत स्कोर, और ध्यान देने लायक बातें — एक ही जगह दिखती हैं।\n\nlikhapoha.in\n\n#CBSE #LikhaPohaAI #NCERT #पढ़ाई",
-    "status": "pending",
-    "lang": "hi"
-  },
-  {
-    "id": "b3-reel-parentprogress-en-reel",
-    "channel": "instagram",
-    "media_type": "REELS",
-    "asset_path": "reels/reel-parentprogress.mp4",
-    "caption": "Doing well, or falling behind? You'll know before the report card.\n\nSee each child's status, mock test scores, and last activity — in real time.\n\nlikhapoha.in\n\n#CBSE #NCERT #AITutor #ExamPrep",
-    "status": "pending",
-    "lang": "en"
-  },
-  {
-    "id": "b3-reel-parentprogress-hi-reel",
-    "channel": "instagram",
-    "media_type": "REELS",
-    "asset_path": "reels/reel-parentprogress-hi.mp4",
-    "caption": "बच्चा अच्छा कर रहा है या पीछे रह रहा है? रिपोर्ट कार्ड से पहले ही पता चल जाएगा।\n\nहर बच्चे की स्थिति, मॉक टेस्ट स्कोर, और आख़िरी एक्टिविटी — रियल टाइम में देखें।\n\nlikhapoha.in\n\n#CBSE #NCERT #स्टूडेंट #एग्ज़ामप्रेप",
-    "status": "pending",
-    "lang": "hi"
-  },
-  {
-    "id": "b3-reel-teacherdashboard-en-reel",
-    "channel": "instagram",
-    "media_type": "REELS",
-    "asset_path": "reels/reel-teacherdashboard.mp4",
-    "caption": "One teacher. Many students. Zero guesswork.\n\nTeacher Dashboard tracks every assigned student, their scores, and who needs attention.\n\nlikhapoha.in\n\n#CBSE #NCERT #AITutor #ExamPrep",
-    "status": "pending",
-    "lang": "en"
-  },
-  {
-    "id": "b3-reel-teacherdashboard-hi-reel",
-    "channel": "instagram",
-    "media_type": "REELS",
-    "asset_path": "reels/reel-teacherdashboard-hi.mp4",
-    "caption": "एक टीचर। कई स्टूडेंट्स। कोई अंदाज़ा नहीं लगाना पड़ता।\n\nTeacher Dashboard हर स्टूडेंट का स्कोर और ध्यान देने लायक बच्चों को ट्रैक करता है।\n\nlikhapoha.in\n\n#CBSE #LikhaPohaAI #पेरेंटिंग #पढ़ाई",
-    "status": "pending",
-    "lang": "hi"
-  },
-  {
-    "id": "b3-reel-lessonplan-en-reel",
-    "channel": "instagram",
-    "media_type": "REELS",
-    "asset_path": "reels/reel-lessonplan.mp4",
-    "caption": "A lesson plan shouldn't take longer to write than to teach.\n\nGenerate a CBSE-aligned lesson plan for any chapter — ready to teach, in seconds.\n\nlikhapoha.in\n\n#CBSE #NCERT #AITutor #ExamPrep",
-    "status": "pending",
-    "lang": "en"
-  },
-  {
-    "id": "b3-reel-lessonplan-hi-reel",
-    "channel": "instagram",
-    "media_type": "REELS",
-    "asset_path": "reels/reel-lessonplan-hi.mp4",
-    "caption": "लेसन प्लान बनाने में पढ़ाने से ज़्यादा समय नहीं लगना चाहिए।\n\nकिसी भी चैप्टर का CBSE-अनुरूप लेसन प्लान बनाएं — सेकंडों में, पढ़ाने के लिए तैयार।\n\nlikhapoha.in\n\n#CBSE #LikhaPohaAI #NCERT #पढ़ाई",
-    "status": "pending",
-    "lang": "hi"
-  },
-  {
-    "id": "b3-reel-testpaper-en-reel",
-    "channel": "instagram",
-    "media_type": "REELS",
-    "asset_path": "reels/reel-testpaper.mp4",
-    "caption": "Need a test paper by tomorrow? Done in under a minute.\n\nMCQ and subjective questions, any grade, any chapter — with an answer key included.\n\nlikhapoha.in\n\n#CBSE #NCERT #AITutor #ExamPrep",
-    "status": "pending",
-    "lang": "en"
-  },
-  {
-    "id": "b3-reel-testpaper-hi-reel",
-    "channel": "instagram",
-    "media_type": "REELS",
-    "asset_path": "reels/reel-testpaper-hi.mp4",
-    "caption": "कल तक टेस्ट पेपर चाहिए? एक मिनट से भी कम समय में तैयार।\n\nMCQ और सब्जेक्टिव सवाल, किसी भी ग्रेड, किसी भी चैप्टर के — आंसर की के साथ।\n\nlikhapoha.in\n\n#CBSE #NCERT #स्टूडेंट #एग्ज़ामप्रेप",
-    "status": "pending",
-    "lang": "hi"
-  },
-  {
-    "id": "b3-reel-lecture-en-reel",
-    "channel": "instagram",
-    "media_type": "REELS",
-    "asset_path": "reels/reel-lecture.mp4",
-    "caption": "Rehearse your delivery before you ever step into class.\n\nListen to Lecture reads out the full lesson plan, in a teacher's voice — hook to homework.\n\nlikhapoha.in\n\n#CBSE #NCERT #AITutor #ExamPrep",
-    "status": "pending",
-    "lang": "en"
-  },
-  {
-    "id": "b3-reel-lecture-hi-reel",
-    "channel": "instagram",
-    "media_type": "REELS",
-    "asset_path": "reels/reel-lecture-hi.mp4",
-    "caption": "क्लास में जाने से पहले अपनी डिलीवरी की रिहर्सल करें।\n\nListen to Lecture पूरे लेसन प्लान को एक टीचर की आवाज़ में पढ़कर सुनाता है।\n\nlikhapoha.in\n\n#CBSE #LikhaPohaAI #पेरेंटिंग #पढ़ाई",
-    "status": "pending",
-    "lang": "hi"
-  },
-  {
-    "id": "b3-reel-studentanalytics-en-reel",
-    "channel": "instagram",
-    "media_type": "REELS",
-    "asset_path": "reels/reel-studentanalytics.mp4",
-    "caption": "Which student needs help this week? The data already knows.\n\nStudent Analytics tracks every assigned student's mock test scores and progress trends.\n\nlikhapoha.in\n\n#CBSE #NCERT #AITutor #ExamPrep",
-    "status": "pending",
-    "lang": "en"
-  },
-  {
-    "id": "b3-reel-studentanalytics-hi-reel",
-    "channel": "instagram",
-    "media_type": "REELS",
-    "asset_path": "reels/reel-studentanalytics-hi.mp4",
-    "caption": "इस हफ्ते किस स्टूडेंट को मदद चाहिए? डेटा को पहले से पता है।\n\nStudent Analytics हर स्टूडेंट के मॉक टेस्ट स्कोर और प्रोग्रेस ट्रेंड को ट्रैक करता है।\n\nlikhapoha.in\n\n#CBSE #LikhaPohaAI #NCERT #पढ़ाई",
-    "status": "pending",
-    "lang": "hi"
-  },
-  {
     "id": "b2-reel-doubt-en-reel",
     "channel": "instagram",
     "media_type": "REELS",
@@ -730,6 +604,132 @@
     "media_type": "REELS",
     "asset_path": "reels/reel-allfeatures-60s-hi.mp4",
     "caption": "Likha Poha AI जो कुछ भी आपके बच्चे के लिए कर सकता है — सिर्फ 60 सेकंड में।\n\nAI Lessons, डाउट पूछें, मॉक टेस्ट, डैशबोर्ड, फॉर्मूला शीट, बोर्ड पेपर्स, एग्ज़ेम्पलर रिसर्च, एनालिटिक्स, और पूरा एग्ज़ाम प्रेप — एक ही प्लेटफॉर्म पर।\n\nlikhapoha.in\n\n#CBSE #LikhaPohaAI #NCERT #एकप्लेटफॉर्म",
+    "status": "pending",
+    "lang": "hi"
+  },
+  {
+    "id": "b3-reel-parentdashboard-en-reel",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "reels/reel-parentdashboard.mp4",
+    "caption": "You don't need daily updates to know how they're doing.\n\nParent Dashboard shows tests taken, average score, and what needs attention — at a glance.\n\nlikhapoha.in\n\n#CBSE #NCERT #AITutor #ExamPrep",
+    "status": "pending",
+    "lang": "en"
+  },
+  {
+    "id": "b3-reel-parentdashboard-hi-reel",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "reels/reel-parentdashboard-hi.mp4",
+    "caption": "बच्चे से रोज़ पूछने की ज़रूरत नहीं कि पढ़ाई कैसी चल रही है।\n\nParent Dashboard में टेस्ट, औसत स्कोर, और ध्यान देने लायक बातें — एक ही जगह दिखती हैं।\n\nlikhapoha.in\n\n#CBSE #LikhaPohaAI #NCERT #पढ़ाई",
+    "status": "pending",
+    "lang": "hi"
+  },
+  {
+    "id": "b3-reel-parentprogress-en-reel",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "reels/reel-parentprogress.mp4",
+    "caption": "Doing well, or falling behind? You'll know before the report card.\n\nSee each child's status, mock test scores, and last activity — in real time.\n\nlikhapoha.in\n\n#CBSE #NCERT #AITutor #ExamPrep",
+    "status": "pending",
+    "lang": "en"
+  },
+  {
+    "id": "b3-reel-parentprogress-hi-reel",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "reels/reel-parentprogress-hi.mp4",
+    "caption": "बच्चा अच्छा कर रहा है या पीछे रह रहा है? रिपोर्ट कार्ड से पहले ही पता चल जाएगा।\n\nहर बच्चे की स्थिति, मॉक टेस्ट स्कोर, और आख़िरी एक्टिविटी — रियल टाइम में देखें।\n\nlikhapoha.in\n\n#CBSE #NCERT #स्टूडेंट #एग्ज़ामप्रेप",
+    "status": "pending",
+    "lang": "hi"
+  },
+  {
+    "id": "b3-reel-teacherdashboard-en-reel",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "reels/reel-teacherdashboard.mp4",
+    "caption": "One teacher. Many students. Zero guesswork.\n\nTeacher Dashboard tracks every assigned student, their scores, and who needs attention.\n\nlikhapoha.in\n\n#CBSE #NCERT #AITutor #ExamPrep",
+    "status": "pending",
+    "lang": "en"
+  },
+  {
+    "id": "b3-reel-teacherdashboard-hi-reel",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "reels/reel-teacherdashboard-hi.mp4",
+    "caption": "एक टीचर। कई स्टूडेंट्स। कोई अंदाज़ा नहीं लगाना पड़ता।\n\nTeacher Dashboard हर स्टूडेंट का स्कोर और ध्यान देने लायक बच्चों को ट्रैक करता है।\n\nlikhapoha.in\n\n#CBSE #LikhaPohaAI #पेरेंटिंग #पढ़ाई",
+    "status": "pending",
+    "lang": "hi"
+  },
+  {
+    "id": "b3-reel-lessonplan-en-reel",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "reels/reel-lessonplan.mp4",
+    "caption": "A lesson plan shouldn't take longer to write than to teach.\n\nGenerate a CBSE-aligned lesson plan for any chapter — ready to teach, in seconds.\n\nlikhapoha.in\n\n#CBSE #NCERT #AITutor #ExamPrep",
+    "status": "pending",
+    "lang": "en"
+  },
+  {
+    "id": "b3-reel-lessonplan-hi-reel",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "reels/reel-lessonplan-hi.mp4",
+    "caption": "लेसन प्लान बनाने में पढ़ाने से ज़्यादा समय नहीं लगना चाहिए।\n\nकिसी भी चैप्टर का CBSE-अनुरूप लेसन प्लान बनाएं — सेकंडों में, पढ़ाने के लिए तैयार।\n\nlikhapoha.in\n\n#CBSE #LikhaPohaAI #NCERT #पढ़ाई",
+    "status": "pending",
+    "lang": "hi"
+  },
+  {
+    "id": "b3-reel-testpaper-en-reel",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "reels/reel-testpaper.mp4",
+    "caption": "Need a test paper by tomorrow? Done in under a minute.\n\nMCQ and subjective questions, any grade, any chapter — with an answer key included.\n\nlikhapoha.in\n\n#CBSE #NCERT #AITutor #ExamPrep",
+    "status": "pending",
+    "lang": "en"
+  },
+  {
+    "id": "b3-reel-testpaper-hi-reel",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "reels/reel-testpaper-hi.mp4",
+    "caption": "कल तक टेस्ट पेपर चाहिए? एक मिनट से भी कम समय में तैयार।\n\nMCQ और सब्जेक्टिव सवाल, किसी भी ग्रेड, किसी भी चैप्टर के — आंसर की के साथ।\n\nlikhapoha.in\n\n#CBSE #NCERT #स्टूडेंट #एग्ज़ामप्रेप",
+    "status": "pending",
+    "lang": "hi"
+  },
+  {
+    "id": "b3-reel-lecture-en-reel",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "reels/reel-lecture.mp4",
+    "caption": "Rehearse your delivery before you ever step into class.\n\nListen to Lecture reads out the full lesson plan, in a teacher's voice — hook to homework.\n\nlikhapoha.in\n\n#CBSE #NCERT #AITutor #ExamPrep",
+    "status": "pending",
+    "lang": "en"
+  },
+  {
+    "id": "b3-reel-lecture-hi-reel",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "reels/reel-lecture-hi.mp4",
+    "caption": "क्लास में जाने से पहले अपनी डिलीवरी की रिहर्सल करें।\n\nListen to Lecture पूरे लेसन प्लान को एक टीचर की आवाज़ में पढ़कर सुनाता है।\n\nlikhapoha.in\n\n#CBSE #LikhaPohaAI #पेरेंटिंग #पढ़ाई",
+    "status": "pending",
+    "lang": "hi"
+  },
+  {
+    "id": "b3-reel-studentanalytics-en-reel",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "reels/reel-studentanalytics.mp4",
+    "caption": "Which student needs help this week? The data already knows.\n\nStudent Analytics tracks every assigned student's mock test scores and progress trends.\n\nlikhapoha.in\n\n#CBSE #NCERT #AITutor #ExamPrep",
+    "status": "pending",
+    "lang": "en"
+  },
+  {
+    "id": "b3-reel-studentanalytics-hi-reel",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "reels/reel-studentanalytics-hi.mp4",
+    "caption": "इस हफ्ते किस स्टूडेंट को मदद चाहिए? डेटा को पहले से पता है।\n\nStudent Analytics हर स्टूडेंट के मॉक टेस्ट स्कोर और प्रोग्रेस ट्रेंड को ट्रैक करता है।\n\nlikhapoha.in\n\n#CBSE #LikhaPohaAI #NCERT #पढ़ाई",
     "status": "pending",
     "lang": "hi"
   },
