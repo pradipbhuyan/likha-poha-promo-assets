@@ -410,6 +410,204 @@
     "posted_at": "2026-09-14T16:28:25.284544+00:00"
   },
   {
+    "id": "b2-reel-doubt-en-reel",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "reels/reel-doubt.mp4",
+    "caption": "The doubt doesn't wait for tuition day.\n\nAsk a Doubt answers instantly — any subject, any time.\n\nlikhapoha.in\n\n#CBSE #NCERT #AITutor #ExamPrep",
+    "status": "pending",
+    "lang": "en"
+  },
+  {
+    "id": "b2-reel-doubt-hi-reel",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "reels/reel-doubt-hi.mp4",
+    "caption": "डाउट ट्यूशन के दिन का इंतज़ार नहीं करता।\n\nAsk a Doubt फौरन जवाब देता है — किसी भी विषय, किसी भी समय।\n\nlikhapoha.in\n\n#CBSE #LikhaPohaAI #NCERT #पढ़ाई",
+    "status": "pending",
+    "lang": "hi"
+  },
+  {
+    "id": "b2-reel-mocktest-en-reel",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "reels/reel-mocktest.mp4",
+    "caption": "You don't rise to the exam. You fall to your practice.\n\nTimed, syllabus-accurate Mock Tests build real exam-day instincts.\n\nlikhapoha.in\n\n#CBSE #NCERT #AITutor #ExamPrep",
+    "status": "pending",
+    "lang": "en"
+  },
+  {
+    "id": "b2-reel-mocktest-hi-reel",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "reels/reel-mocktest-hi.mp4",
+    "caption": "एग्ज़ाम में वही होता है जो प्रैक्टिस में हुआ।\n\nटाइम्ड, सिलेबस-सटीक Mock Tests असली एग्ज़ाम-डे इंस्टिंक्ट बनाते हैं।\n\nlikhapoha.in\n\n#CBSE #NCERT #स्टूडेंट #एग्ज़ामप्रेप",
+    "status": "pending",
+    "lang": "hi"
+  },
+  {
+    "id": "b2-reel-pastpapers-en-reel",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "reels/reel-pastpapers.mp4",
+    "caption": "The syllabus tells you what to study.\n\nPast papers tell you how it's asked — solve at least 5 years before any board exam.\n\nlikhapoha.in\n\n#CBSE #NCERT #AITutor #ExamPrep",
+    "status": "pending",
+    "lang": "en"
+  },
+  {
+    "id": "b2-reel-pastpapers-hi-reel",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "reels/reel-pastpapers-hi.mp4",
+    "caption": "सिलेबस बताता है क्या पढ़ना है।\n\nपुराने पेपर बताते हैं कैसे पूछा जाता है — किसी भी बोर्ड एग्ज़ाम से पहले कम से कम 5 साल के पेपर हल करें।\n\nlikhapoha.in\n\n#CBSE #LikhaPohaAI #पेरेंटिंग #पढ़ाई",
+    "status": "pending",
+    "lang": "hi"
+  },
+  {
+    "id": "b2-reel-dashboard-en-reel",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "reels/reel-dashboard.mp4",
+    "caption": "One dashboard. Everything that matters.\n\nToday's goal, streak, and what to study next — at a glance.\n\nlikhapoha.in\n\n#CBSE #NCERT #AITutor #ExamPrep",
+    "status": "pending",
+    "lang": "en"
+  },
+  {
+    "id": "b2-reel-dashboard-hi-reel",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "reels/reel-dashboard-hi.mp4",
+    "caption": "एक डैशबोर्ड। हर ज़रूरी चीज़ एक जगह।\n\nआज का लक्ष्य, आपकी स्ट्रीक, और आगे क्या पढ़ना है — लॉग इन करते ही।\n\nlikhapoha.in\n\n#CBSE #LikhaPohaAI #NCERT #पढ़ाई",
+    "status": "pending",
+    "lang": "hi"
+  },
+  {
+    "id": "b2-reel-lessons-en-reel",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "reels/reel-lessons.mp4",
+    "caption": "Not a summary. Not a shortcut.\n\nAI Lessons follow the exact NCERT chapter your child's exam is based on.\n\nlikhapoha.in\n\n#CBSE #NCERT #AITutor #ExamPrep",
+    "status": "pending",
+    "lang": "en"
+  },
+  {
+    "id": "b2-reel-lessons-hi-reel",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "reels/reel-lessons-hi.mp4",
+    "caption": "समरी नहीं। शॉर्टकट नहीं।\n\nAI Lessons बिल्कुल उसी NCERT चैप्टर को फॉलो करते हैं जिस पर बच्चे का एग्ज़ाम बना है।\n\nlikhapoha.in\n\n#CBSE #NCERT #स्टूडेंट #एग्ज़ामप्रेप",
+    "status": "pending",
+    "lang": "hi"
+  },
+  {
+    "id": "b2-reel-analytics-en-reel",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "reels/reel-analytics.mp4",
+    "caption": "Progress you can actually see, not just feel.\n\nChapter-by-chapter mastery, updated after every single session.\n\nlikhapoha.in\n\n#CBSE #NCERT #AITutor #ExamPrep",
+    "status": "pending",
+    "lang": "en"
+  },
+  {
+    "id": "b2-reel-analytics-hi-reel",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "reels/reel-analytics-hi.mp4",
+    "caption": "प्रोग्रेस जो दिखे भी, सिर्फ महसूस न हो।\n\nचैप्टर-दर-चैप्टर मास्टरी, हर सेशन के बाद अपडेट होती है।\n\nlikhapoha.in\n\n#CBSE #LikhaPohaAI #पेरेंटिंग #पढ़ाई",
+    "status": "pending",
+    "lang": "hi"
+  },
+  {
+    "id": "b2-reel-learnmore-en-reel",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "reels/reel-learnmore.mp4",
+    "caption": "Curious what else Likha Poha AI can do?\n\nFree curated videos and resources — matched to the exact chapter.\n\nlikhapoha.in\n\n#CBSE #NCERT #AITutor #ExamPrep",
+    "status": "pending",
+    "lang": "en"
+  },
+  {
+    "id": "b2-reel-learnmore-hi-reel",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "reels/reel-learnmore-hi.mp4",
+    "caption": "जानना चाहते हैं Likha Poha AI और क्या कर सकता है?\n\nफ्री क्यूरेटेड वीडियो और रिसोर्स — बिल्कुल उसी चैप्टर से मेल खाते हुए।\n\nlikhapoha.in\n\n#CBSE #LikhaPohaAI #NCERT #पढ़ाई",
+    "status": "pending",
+    "lang": "hi"
+  },
+  {
+    "id": "b2-reel-exemplar-en-reel",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "reels/reel-exemplar.mp4",
+    "caption": "NCERT exemplar problems aren't optional extra credit.\n\nThey're where board exam questions actually come from.\n\nlikhapoha.in\n\n#CBSE #NCERT #AITutor #ExamPrep",
+    "status": "pending",
+    "lang": "en"
+  },
+  {
+    "id": "b2-reel-exemplar-hi-reel",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "reels/reel-exemplar-hi.mp4",
+    "caption": "NCERT exemplar सवाल एक्स्ट्रा क्रेडिट नहीं हैं।\n\nबोर्ड एग्ज़ाम के सवाल असल में यहीं से आते हैं।\n\nlikhapoha.in\n\n#CBSE #NCERT #स्टूडेंट #एग्ज़ामप्रेप",
+    "status": "pending",
+    "lang": "hi"
+  },
+  {
+    "id": "b2-reel-formula-en-reel",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "reels/reel-formula.mp4",
+    "caption": "Every formula. One page. Zero flipping through 12 chapters.\n\nChapter-wise, worked examples included — ready whenever revision starts.\n\nlikhapoha.in\n\n#CBSE #NCERT #AITutor #ExamPrep",
+    "status": "pending",
+    "lang": "en"
+  },
+  {
+    "id": "b2-reel-formula-hi-reel",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "reels/reel-formula-hi.mp4",
+    "caption": "हर फॉर्मूला। एक पेज। 12 चैप्टर पलटने की ज़रूरत नहीं।\n\nचैप्टर-वाइज़, हल किए उदाहरणों के साथ — रिवीज़न के लिए हमेशा तैयार।\n\nlikhapoha.in\n\n#CBSE #LikhaPohaAI #पेरेंटिंग #पढ़ाई",
+    "status": "pending",
+    "lang": "hi"
+  },
+  {
+    "id": "b2-reel-examprep-en-reel",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "reels/reel-examprep.mp4",
+    "caption": "JEE. NEET. CUET. Boards. One platform.\n\nSimulated tests that mirror the real exam — down to the timer.\n\nlikhapoha.in\n\n#CBSE #NCERT #AITutor #ExamPrep",
+    "status": "pending",
+    "lang": "en"
+  },
+  {
+    "id": "b2-reel-examprep-hi-reel",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "reels/reel-examprep-hi.mp4",
+    "caption": "JEE। NEET। CUET। बोर्ड्स। एक प्लेटफॉर्म।\n\nसिमुलेटेड टेस्ट जो असली एग्ज़ाम जैसा माहौल देते हैं — टाइमर तक वैसा ही।\n\nlikhapoha.in\n\n#CBSE #LikhaPohaAI #NCERT #पढ़ाई",
+    "status": "pending",
+    "lang": "hi"
+  },
+  {
+    "id": "b2-reel-allfeatures-60s-en-reel",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "reels/reel-allfeatures-60s.mp4",
+    "caption": "Everything Likha Poha AI can do for your child — in 60 seconds.\n\nAI Lessons, Ask a Doubt, Mock Tests, Dashboards, Formula Sheets, Board Papers, Exemplar Research, Analytics, and full Exam Prep — all in one platform.\n\nlikhapoha.in\n\n#CBSE #NCERT #AITutor #OneApp",
+    "status": "pending",
+    "lang": "en"
+  },
+  {
+    "id": "b2-reel-allfeatures-60s-hi-reel",
+    "channel": "instagram",
+    "media_type": "REELS",
+    "asset_path": "reels/reel-allfeatures-60s-hi.mp4",
+    "caption": "Likha Poha AI जो कुछ भी आपके बच्चे के लिए कर सकता है — सिर्फ 60 सेकंड में।\n\nAI Lessons, डाउट पूछें, मॉक टेस्ट, डैशबोर्ड, फॉर्मूला शीट, बोर्ड पेपर्स, एग्ज़ेम्पलर रिसर्च, एनालिटिक्स, और पूरा एग्ज़ाम प्रेप — एक ही प्लेटफॉर्म पर।\n\nlikhapoha.in\n\n#CBSE #LikhaPohaAI #NCERT #एकप्लेटफॉर्म",
+    "status": "pending",
+    "lang": "hi"
+  },
+  {
     "id": "R16-myth-examprep-c2",
     "channel": "instagram",
     "media_type": "REELS",
