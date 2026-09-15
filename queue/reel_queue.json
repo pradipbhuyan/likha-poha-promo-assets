@@ -415,8 +415,9 @@
     "media_type": "REELS",
     "asset_path": "reels/reel-doubt.mp4",
     "caption": "The doubt doesn't wait for tuition day.\n\nAsk a Doubt answers instantly — any subject, any time.\n\nlikhapoha.in\n\n#CBSE #NCERT #AITutor #ExamPrep",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-09-15T15:12:10.941509+00:00"
   },
   {
     "id": "b2-reel-doubt-hi-reel",
