@@ -425,8 +425,9 @@
     "media_type": "REELS",
     "asset_path": "reels/reel-doubt-hi.mp4",
     "caption": "डाउट ट्यूशन के दिन का इंतज़ार नहीं करता।\n\nAsk a Doubt फौरन जवाब देता है — किसी भी विषय, किसी भी समय।\n\nlikhapoha.in\n\n#CBSE #LikhaPohaAI #NCERT #पढ़ाई",
-    "status": "pending",
-    "lang": "hi"
+    "status": "posted",
+    "lang": "hi",
+    "posted_at": "2026-09-16T15:08:23.819131+00:00"
   },
   {
     "id": "b2-reel-mocktest-en-reel",
