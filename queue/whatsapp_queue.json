@@ -715,8 +715,9 @@
     "channel": "whatsapp",
     "asset_path": "28-subject-math.png",
     "caption": "*Don't memorize the formula. Understand where it comes from.*\n\nA formula you understand, you never forget. One you memorized, you will.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-09-16T15:29:23.892237+00:00"
   },
   {
     "id": "29-subject-science-whatsapp-c2",
