@@ -435,8 +435,9 @@
     "media_type": "REELS",
     "asset_path": "reels/reel-mocktest.mp4",
     "caption": "You don't rise to the exam. You fall to your practice.\n\nTimed, syllabus-accurate Mock Tests build real exam-day instincts.\n\nlikhapoha.in\n\n#CBSE #NCERT #AITutor #ExamPrep",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-09-17T15:12:25.583403+00:00"
   },
   {
     "id": "b2-reel-mocktest-hi-reel",
