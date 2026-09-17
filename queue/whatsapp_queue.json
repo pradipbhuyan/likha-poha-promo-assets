@@ -733,8 +733,9 @@
     "channel": "whatsapp",
     "asset_path": "30-feature-learnmore.png",
     "caption": "*Stuck on a concept? Watch it explained.*\n\nFree videos and learning resources matched to your exact chapter — no random YouTube search needed.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-09-17T15:36:22.999898+00:00"
   },
   {
     "id": "31-examprep-overview-whatsapp-c2",
