@@ -751,8 +751,9 @@
     "channel": "whatsapp",
     "asset_path": "32-examprep-jee.png",
     "caption": "*JEE Main. One structured study plan.*\n\nChapter-wise Physics, Chemistry, and Maths — built around what actually shows up in JEE Main.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-09-18T15:04:49.860130+00:00"
   },
   {
     "id": "33-examprep-neet-whatsapp-c2",
