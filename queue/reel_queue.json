@@ -445,8 +445,9 @@
     "media_type": "REELS",
     "asset_path": "reels/reel-mocktest-hi.mp4",
     "caption": "एग्ज़ाम में वही होता है जो प्रैक्टिस में हुआ।\n\nटाइम्ड, सिलेबस-सटीक Mock Tests असली एग्ज़ाम-डे इंस्टिंक्ट बनाते हैं।\n\nlikhapoha.in\n\n#CBSE #NCERT #स्टूडेंट #एग्ज़ामप्रेप",
-    "status": "pending",
-    "lang": "hi"
+    "status": "posted",
+    "lang": "hi",
+    "posted_at": "2026-09-18T14:36:29.326688+00:00"
   },
   {
     "id": "b2-reel-pastpapers-en-reel",
