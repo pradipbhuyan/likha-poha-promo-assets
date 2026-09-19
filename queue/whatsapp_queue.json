@@ -769,8 +769,9 @@
     "channel": "whatsapp",
     "asset_path": "34-examprep-cuet.png",
     "caption": "*CUET UG. Now part of your prep.*\n\nUniversity entrance prep, structured the same way as your board exam prep.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-09-19T14:39:17.122700+00:00"
   },
   {
     "id": "35-examprep-sat-whatsapp-c2",
