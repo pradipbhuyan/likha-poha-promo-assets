@@ -760,8 +760,9 @@
     "channel": "whatsapp",
     "asset_path": "33-examprep-neet.png",
     "caption": "*NEET UG. Structured, not scattered.*\n\nBiology, Physics, and Chemistry — organized into one clear path instead of ten different apps.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-09-19T09:06:38.961899+00:00"
   },
   {
     "id": "34-examprep-cuet-whatsapp-c2",
