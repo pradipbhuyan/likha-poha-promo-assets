@@ -787,8 +787,9 @@
     "channel": "whatsapp",
     "asset_path": "36-examprep-ielts.png",
     "caption": "*IELTS prep. Structured. Not random PDFs.*\n\nOne clear path — practice, then simulate real test conditions.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-09-20T14:47:15.534465+00:00"
   },
   {
     "id": "37-examprep-toefl-whatsapp-c2",
