@@ -796,8 +796,9 @@
     "channel": "whatsapp",
     "asset_path": "37-examprep-toefl.png",
     "caption": "*TOEFL iBT. One more exam, same platform.*\n\nYou don't need a separate app for every exam you're preparing for.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-09-21T10:20:07.251618+00:00"
   },
   {
     "id": "01-lessons-whatsapp-c3",
