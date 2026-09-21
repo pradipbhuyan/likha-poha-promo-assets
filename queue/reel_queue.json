@@ -475,8 +475,9 @@
     "media_type": "REELS",
     "asset_path": "reels/reel-dashboard.mp4",
     "caption": "One dashboard. Everything that matters.\n\nToday's goal, streak, and what to study next — at a glance.\n\nlikhapoha.in\n\n#CBSE #NCERT #AITutor #ExamPrep",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-09-21T16:33:35.478020+00:00"
   },
   {
     "id": "b2-reel-dashboard-hi-reel",
