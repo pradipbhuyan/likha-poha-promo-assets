@@ -485,8 +485,9 @@
     "media_type": "REELS",
     "asset_path": "reels/reel-dashboard-hi.mp4",
     "caption": "एक डैशबोर्ड। हर ज़रूरी चीज़ एक जगह।\n\nआज का लक्ष्य, आपकी स्ट्रीक, और आगे क्या पढ़ना है — लॉग इन करते ही।\n\nlikhapoha.in\n\n#CBSE #LikhaPohaAI #NCERT #पढ़ाई",
-    "status": "pending",
-    "lang": "hi"
+    "status": "posted",
+    "lang": "hi",
+    "posted_at": "2026-09-22T15:08:25.733445+00:00"
   },
   {
     "id": "b2-reel-lessons-en-reel",
