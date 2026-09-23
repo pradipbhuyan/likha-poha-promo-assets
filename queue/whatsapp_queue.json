@@ -832,8 +832,9 @@
     "channel": "whatsapp",
     "asset_path": "/Users/a0247716/Pradips_Project/likha-poha-ai-marketing/MarketingOutput/2026-07-28-creative-promos/whatsapp/whatsapp-mocktest.png",
     "caption": "*140,000+ questions. Zero exam- day surprises.*\n\nPracticing the same 10 sample papers as every other student in India.\n\nMock Test Studio — CBSE-specific practice by chapter and difficulty, scored instantly.\n\nTake a Free Mock Test: likhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-09-23T09:40:13.409834+00:00"
   },
   {
     "id": "05-pricing-whatsapp-c3",
