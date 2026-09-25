@@ -868,8 +868,9 @@
     "channel": "whatsapp",
     "asset_path": "02-motivation-2.png",
     "caption": "*You don't need more time. You need to start now.*\n\nWaiting for the 'right moment' is just procrastination in disguise.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-09-25T09:56:42.882325+00:00"
   },
   {
     "id": "03-motivation-3-whatsapp-c3",
