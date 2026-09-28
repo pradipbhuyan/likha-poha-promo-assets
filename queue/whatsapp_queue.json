@@ -904,8 +904,9 @@
     "channel": "whatsapp",
     "asset_path": "06-motivation-6.png",
     "caption": "*Every chapter you finish is a door you unlock.*\n\nEach topic you complete makes the next one easier to understand.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-09-28T11:21:48.935388+00:00"
   },
   {
     "id": "07-motivation-7-whatsapp-c3",
