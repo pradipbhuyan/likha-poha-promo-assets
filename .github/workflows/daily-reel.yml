@@ -2,7 +2,7 @@ name: Daily Reel Poster
 
 on:
   schedule:
-    - cron: "30 10 * * *"  # 16:00 IST (4pm)
+    - cron: "30 12 * * *"  # 18:00 IST (6pm) daily; actual posting gated to alternate days below
   workflow_dispatch: {}
 
 permissions:
@@ -18,13 +18,25 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Check if today is a reel day (every alternate day)
+        id: reelday
+        run: |
+          DOY=$(date -u +%j)
+          if [ $((10#$DOY % 2)) -eq 0 ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Post next queued reel
+        if: steps.reelday.outputs.run == 'true'
         env:
           META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
           IG_BUSINESS_ACCOUNT_ID: ${{ secrets.IG_BUSINESS_ACCOUNT_ID }}
         run: python scripts/post_next_reel.py
 
       - name: Commit updated reel queue
+        if: steps.reelday.outputs.run == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"

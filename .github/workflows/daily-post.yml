@@ -2,9 +2,7 @@ name: Daily Instagram Post
 
 on:
   schedule:
-    - cron: "30 2 * * *"   # 08:00 IST
-    - cron: "30 8 * * *"   # 14:00 IST
-    - cron: "30 13 * * *"  # 19:00 IST
+    - cron: "30 4 * * *"   # 10:00 IST
   workflow_dispatch: {}
 
 permissions:
