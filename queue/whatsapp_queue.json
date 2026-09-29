@@ -931,8 +931,9 @@
     "channel": "whatsapp",
     "asset_path": "09-tip-1.png",
     "caption": "*The Pomodoro trick: 25 focused. 5 minutes free.*\n\nShort focused sprints beat marathon sessions that fade halfway through.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-09-29T16:57:44.092788+00:00"
   },
   {
     "id": "10-tip-2-whatsapp-c3",
