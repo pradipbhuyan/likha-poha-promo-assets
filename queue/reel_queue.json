@@ -535,8 +535,9 @@
     "media_type": "REELS",
     "asset_path": "reels/reel-learnmore.mp4",
     "caption": "Curious what else Likha Poha AI can do?\n\nFree curated videos and resources — matched to the exact chapter.\n\nlikhapoha.in\n\n#CBSE #NCERT #AITutor #ExamPrep",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-09-29T18:10:45.031112+00:00"
   },
   {
     "id": "b2-reel-learnmore-hi-reel",
