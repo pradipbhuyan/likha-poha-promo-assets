@@ -958,8 +958,9 @@
     "channel": "whatsapp",
     "asset_path": "12-tip-4.png",
     "caption": "*Test yourself before the test tests you.*\n\nA quick self-quiz reveals gaps a re-read never will.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-10-01T11:17:18.599067+00:00"
   },
   {
     "id": "13-tip-5-whatsapp-c3",
