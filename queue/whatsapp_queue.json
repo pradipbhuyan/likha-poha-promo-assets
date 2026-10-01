@@ -967,8 +967,9 @@
     "channel": "whatsapp",
     "asset_path": "13-tip-5.png",
     "caption": "*One hard topic a day beats ten easy ones.*\n\nEasy topics feel productive. Hard topics are where the real marks are.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-10-01T17:27:04.832938+00:00"
   },
   {
     "id": "14-tip-6-whatsapp-c3",
