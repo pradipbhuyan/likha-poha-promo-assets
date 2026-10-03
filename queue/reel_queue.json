@@ -555,8 +555,9 @@
     "media_type": "REELS",
     "asset_path": "reels/reel-exemplar.mp4",
     "caption": "NCERT exemplar problems aren't optional extra credit.\n\nThey're where board exam questions actually come from.\n\nlikhapoha.in\n\n#CBSE #NCERT #AITutor #ExamPrep",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-10-03T16:34:16.724314+00:00"
   },
   {
     "id": "b2-reel-exemplar-hi-reel",
