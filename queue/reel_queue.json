@@ -565,8 +565,9 @@
     "media_type": "REELS",
     "asset_path": "reels/reel-exemplar-hi.mp4",
     "caption": "NCERT exemplar सवाल एक्स्ट्रा क्रेडिट नहीं हैं।\n\nबोर्ड एग्ज़ाम के सवाल असल में यहीं से आते हैं।\n\nlikhapoha.in\n\n#CBSE #NCERT #स्टूडेंट #एग्ज़ामप्रेप",
-    "status": "pending",
-    "lang": "hi"
+    "status": "posted",
+    "lang": "hi",
+    "posted_at": "2026-10-05T20:48:23.393613+00:00"
   },
   {
     "id": "b2-reel-formula-en-reel",
