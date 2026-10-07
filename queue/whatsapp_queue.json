@@ -1057,8 +1057,9 @@
     "channel": "whatsapp",
     "asset_path": "23-myth-3.png",
     "caption": "*\"Doubt apps are just search engines.\"*\n\nAsk Doubt explains step-by-step, the way a teacher would — not a copy-pasted answer.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-10-07T11:27:24.073439+00:00"
   },
   {
     "id": "24-myth-4-whatsapp-c3",
