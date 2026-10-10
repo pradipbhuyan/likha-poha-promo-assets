@@ -1111,8 +1111,9 @@
     "channel": "whatsapp",
     "asset_path": "29-subject-science.png",
     "caption": "*Draw the diagram before you write the answer.*\n\nA labeled diagram often earns marks a paragraph of text can't.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-10-10T10:53:55.068724+00:00"
   },
   {
     "id": "30-feature-learnmore-whatsapp-c3",
