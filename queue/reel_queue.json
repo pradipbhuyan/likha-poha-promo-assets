@@ -595,8 +595,9 @@
     "media_type": "REELS",
     "asset_path": "reels/reel-examprep.mp4",
     "caption": "JEE. NEET. CUET. Boards. One platform.\n\nSimulated tests that mirror the real exam — down to the timer.\n\nlikhapoha.in\n\n#CBSE #NCERT #AITutor #ExamPrep",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-10-11T17:44:31.786546+00:00"
   },
   {
     "id": "b2-reel-examprep-hi-reel",
