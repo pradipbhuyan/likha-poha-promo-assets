@@ -1165,8 +1165,9 @@
     "channel": "whatsapp",
     "asset_path": "35-examprep-sat.png",
     "caption": "*Going abroad? SAT prep is here too.*\n\nThe same structured approach — chapter-wise practice, then a full timed simulation.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-10-13T12:23:38.362170+00:00"
   },
   {
     "id": "36-examprep-ielts-whatsapp-c3",
