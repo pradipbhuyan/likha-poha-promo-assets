@@ -1192,8 +1192,9 @@
     "channel": "whatsapp",
     "asset_path": "teacher-desk-female.png",
     "caption": "*Teaching is a lot — grading, lesson plans, tracking every student.*\n\nThe Teacher Dashboard gives you ready lesson plans, one-click test papers, and automatic at-risk alerts. Free for up to 10 students.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-10-14T15:54:22.330059+00:00"
   },
   {
     "id": "teacher-whiteboard-male-whatsapp",
