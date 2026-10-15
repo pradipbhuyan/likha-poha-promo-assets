@@ -1210,8 +1210,9 @@
     "channel": "whatsapp",
     "asset_path": "teacher-declutter.png",
     "caption": "*From a stack of papers to one click.*\n\nBuild a full test paper — objective and subjective — in one click, from a ready question bank.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-10-15T15:41:15.508101+00:00"
   },
   {
     "id": "teacher-messaging-whatsapp",
