@@ -1201,8 +1201,9 @@
     "channel": "whatsapp",
     "asset_path": "teacher-whiteboard-male.png",
     "caption": "*A ready lesson plan for every chapter, every grade.*\n\nNo more building from scratch every week — the Teacher Dashboard's lesson plan bank has you covered, with room for your own private notes.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-10-15T09:32:31.903091+00:00"
   },
   {
     "id": "teacher-declutter-whatsapp",
