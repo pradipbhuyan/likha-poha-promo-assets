@@ -1219,8 +1219,9 @@
     "channel": "whatsapp",
     "asset_path": "teacher-messaging.png",
     "caption": "*Parents can reach you without hunting for your number.*\n\nPlatform Chat connects you directly with parents and students, inside Likha Poha AI.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-10-16T09:25:24.698055+00:00"
   },
   {
     "id": "mascot-teaching-whatsapp",
