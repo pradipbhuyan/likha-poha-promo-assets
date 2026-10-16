@@ -1228,8 +1228,9 @@
     "channel": "whatsapp",
     "asset_path": "mascot-teaching.png",
     "caption": "*Everything a teacher needs, in one dashboard.*\n\nLesson plans, test papers, at-risk alerts, and private student notes — all built for teachers, free to start.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-10-16T15:26:40.478489+00:00"
   },
   {
     "id": "chat-parent-teacher-whatsapp",
