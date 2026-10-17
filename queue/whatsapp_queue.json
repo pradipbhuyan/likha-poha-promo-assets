@@ -1237,8 +1237,9 @@
     "channel": "whatsapp",
     "asset_path": "chat-parent-teacher.png",
     "caption": "*No more chasing phone numbers.*\n\nPlatform Chat lets parents and teachers message directly inside Likha Poha AI — text, photos, even voice notes.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-10-17T08:57:07.644450+00:00"
   },
   {
     "id": "chat-phone-closeup-whatsapp",
