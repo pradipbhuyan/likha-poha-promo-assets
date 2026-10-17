@@ -1246,8 +1246,9 @@
     "channel": "whatsapp",
     "asset_path": "chat-phone-closeup.png",
     "caption": "*Text. Photos. Voice notes. Whatever's fastest.*\n\nPlatform Chat is built right into Likha Poha AI — no separate app, no new number to save.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-10-17T14:19:18.524103+00:00"
   },
   {
     "id": "family-looking-phone-whatsapp",
