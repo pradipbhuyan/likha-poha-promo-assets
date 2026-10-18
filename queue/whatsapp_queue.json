@@ -1264,8 +1264,9 @@
     "channel": "whatsapp",
     "asset_path": "trio-connect.png",
     "caption": "*Student. Parent. Teacher. One thread.*\n\nPlatform Chat connects everyone who matters to a student's progress — directly, inside Likha Poha AI.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-10-18T14:44:08.289678+00:00"
   },
   {
     "id": "notification-bell-whatsapp",
