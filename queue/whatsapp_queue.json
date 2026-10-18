@@ -1255,8 +1255,9 @@
     "channel": "whatsapp",
     "asset_path": "family-looking-phone.png",
     "caption": "*One message, and everyone's in the loop.*\n\nStudents, parents, and teachers — all connected directly inside Likha Poha AI.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-10-18T09:15:41.981438+00:00"
   },
   {
     "id": "trio-connect-whatsapp",
