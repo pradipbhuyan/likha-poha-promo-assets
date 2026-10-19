@@ -1282,8 +1282,9 @@
     "channel": "whatsapp",
     "asset_path": "student-studying-focus.png",
     "caption": "*Deep work, deep focus.*\n\nAI Lessons walk through every chapter step by step, so studying feels structured, not overwhelming.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-10-19T17:39:02.672109+00:00"
   },
   {
     "id": "student-with-tablet-whatsapp",
