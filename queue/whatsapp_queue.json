@@ -1273,8 +1273,9 @@
     "channel": "whatsapp",
     "asset_path": "notification-bell.png",
     "caption": "*Know before it becomes a problem.*\n\nThe Teacher Dashboard flags at-risk students automatically — so you catch it early, not at report card time.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-10-19T10:25:28.233427+00:00"
   },
   {
     "id": "student-studying-focus-whatsapp",
