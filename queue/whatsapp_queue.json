@@ -1300,8 +1300,9 @@
     "channel": "whatsapp",
     "asset_path": "library-student.png",
     "caption": "*Beyond the textbook.*\n\nExemplar Research gives tougher, exam-level practice beyond the standard textbook questions.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-10-20T15:44:10.892751+00:00"
   },
   {
     "id": "love-sports-whatsapp",
