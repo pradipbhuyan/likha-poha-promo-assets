@@ -1291,8 +1291,9 @@
     "channel": "whatsapp",
     "asset_path": "student-with-tablet.png",
     "caption": "*Your notes, your pace, any device.*\n\nStudy anywhere — Likha Poha AI works on any phone or tablet, no app download required.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-10-20T09:44:44.631737+00:00"
   },
   {
     "id": "library-student-whatsapp",
