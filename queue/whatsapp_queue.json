@@ -1309,8 +1309,9 @@
     "channel": "whatsapp",
     "asset_path": "love-sports.png",
     "caption": "*Good grades don't mean giving up everything else.*\n\nA structured study plan means more time for what you love too.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-10-21T09:46:06.990673+00:00"
   },
   {
     "id": "group-students-whatsapp",
