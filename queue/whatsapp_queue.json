@@ -1318,8 +1318,9 @@
     "channel": "whatsapp",
     "asset_path": "group-students.png",
     "caption": "*You don't have to figure it out alone.*\n\nLikha Poha AI is built for CBSE students, from Class 5 to 12.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-10-21T16:02:49.722239+00:00"
   },
   {
     "id": "school-building-whatsapp",
