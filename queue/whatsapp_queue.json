@@ -1336,8 +1336,9 @@
     "channel": "whatsapp",
     "asset_path": "event-celebration.png",
     "caption": "*That feeling when the mock test score finally clicks.*\n\nMock Test Studio gives instant scoring, so you know exactly where you stand.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-10-22T15:57:04.007662+00:00"
   },
   {
     "id": "progress-chart-student-whatsapp",
