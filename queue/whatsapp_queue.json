@@ -1345,8 +1345,9 @@
     "channel": "whatsapp",
     "asset_path": "progress-chart-student.png",
     "caption": "*See the progress, not just the grade.*\n\nAnalytics tracks real progress, chapter by chapter, so you know exactly what to revise.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-10-23T09:41:40.122187+00:00"
   },
   {
     "id": "idea-lightbulb-whatsapp",
