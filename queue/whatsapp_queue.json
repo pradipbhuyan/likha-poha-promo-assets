@@ -1363,8 +1363,9 @@
     "channel": "whatsapp",
     "asset_path": "idea-mascot.png",
     "caption": "*Stuck on a doubt? Just ask.*\n\nGet instant, step-by-step help from Likha Poha AI, any time of day.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-10-24T09:14:05.259173+00:00"
   },
   {
     "id": "mascot-book-whatsapp",
