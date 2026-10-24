@@ -1372,8 +1372,9 @@
     "channel": "whatsapp",
     "asset_path": "mascot-book.png",
     "caption": "*Your NCERT textbook, reimagined.*\n\nAI Lessons walk through every chapter step by step, grounded in your actual textbook.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-10-24T14:44:55.695934+00:00"
   },
   {
     "id": "mascot-excited-whatsapp",
