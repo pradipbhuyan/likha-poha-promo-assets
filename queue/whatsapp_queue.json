@@ -1381,8 +1381,9 @@
     "channel": "whatsapp",
     "asset_path": "mascot-excited.png",
     "caption": "*That's the Likha Poha AI energy.*\n\nAI lessons, instant doubt solving, and mock tests — all in one place, free to join.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-10-25T09:30:52.039980+00:00"
   },
   {
     "id": "mascot-heart-whatsapp",
