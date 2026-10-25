@@ -1390,8 +1390,9 @@
     "channel": "whatsapp",
     "asset_path": "mascot-heart.png",
     "caption": "*Made for CBSE students who want to actually understand, not just memorize.*\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-10-25T14:59:56.321627+00:00"
   },
   {
     "id": "mascot-high-five-whatsapp",
