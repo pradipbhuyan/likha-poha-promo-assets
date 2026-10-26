@@ -1399,8 +1399,9 @@
     "channel": "whatsapp",
     "asset_path": "mascot-high-five.png",
     "caption": "*Nailed the mock test? That's the goal.*\n\nMock Test Studio gives exam-style practice with instant scoring, across every chapter.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-10-26T10:40:42.082642+00:00"
   },
   {
     "id": "mascot-laptop-whatsapp",
