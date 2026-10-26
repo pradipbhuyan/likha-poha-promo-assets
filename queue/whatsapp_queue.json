@@ -1408,8 +1408,9 @@
     "channel": "whatsapp",
     "asset_path": "mascot-laptop.png",
     "caption": "*One platform. Every CBSE subject.*\n\nAI Lessons, Ask Doubt, Mock Tests, and more — all in one place.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-10-26T17:31:49.718980+00:00"
   },
   {
     "id": "mascot-progress-whatsapp",
