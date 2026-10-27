@@ -1417,8 +1417,9 @@
     "channel": "whatsapp",
     "asset_path": "mascot-progress.png",
     "caption": "*Small steps, real progress.*\n\nThe Parent Dashboard shows every child's progress in real time, with weak areas flagged automatically.\n\nlikhapoha.in",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-10-27T10:08:42.881107+00:00"
   },
   {
     "id": "mascot-rocket-whatsapp",
