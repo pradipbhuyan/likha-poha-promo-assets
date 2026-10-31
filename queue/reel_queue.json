@@ -695,8 +695,9 @@
     "media_type": "REELS",
     "asset_path": "reels/reel-lessonplan.mp4",
     "caption": "A lesson plan shouldn't take longer to write than to teach.\n\nGenerate a CBSE-aligned lesson plan for any chapter — ready to teach, in seconds.\n\nlikhapoha.in\n\n#CBSE #NCERT #AITutor #ExamPrep",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-10-31T17:19:02.861401+00:00"
   },
   {
     "id": "b3-reel-lessonplan-hi-reel",
