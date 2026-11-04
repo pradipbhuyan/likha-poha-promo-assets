@@ -715,8 +715,9 @@
     "media_type": "REELS",
     "asset_path": "reels/reel-testpaper.mp4",
     "caption": "Need a test paper by tomorrow? Done in under a minute.\n\nMCQ and subjective questions, any grade, any chapter — with an answer key included.\n\nlikhapoha.in\n\n#CBSE #NCERT #AITutor #ExamPrep",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-11-04T19:56:35.825977+00:00"
   },
   {
     "id": "b3-reel-testpaper-hi-reel",
