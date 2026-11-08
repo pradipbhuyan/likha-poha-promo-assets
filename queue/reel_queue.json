@@ -735,8 +735,9 @@
     "media_type": "REELS",
     "asset_path": "reels/reel-lecture.mp4",
     "caption": "Rehearse your delivery before you ever step into class.\n\nListen to Lecture reads out the full lesson plan, in a teacher's voice — hook to homework.\n\nlikhapoha.in\n\n#CBSE #NCERT #AITutor #ExamPrep",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-11-08T18:00:11.739726+00:00"
   },
   {
     "id": "b3-reel-lecture-hi-reel",
