@@ -755,8 +755,9 @@
     "media_type": "REELS",
     "asset_path": "reels/reel-studentanalytics.mp4",
     "caption": "Which student needs help this week? The data already knows.\n\nStudent Analytics tracks every assigned student's mock test scores and progress trends.\n\nlikhapoha.in\n\n#CBSE #NCERT #AITutor #ExamPrep",
-    "status": "pending",
-    "lang": "en"
+    "status": "posted",
+    "lang": "en",
+    "posted_at": "2026-11-12T20:13:24.761318+00:00"
   },
   {
     "id": "b3-reel-studentanalytics-hi-reel",
