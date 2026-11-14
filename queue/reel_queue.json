@@ -765,8 +765,9 @@
     "media_type": "REELS",
     "asset_path": "reels/reel-studentanalytics-hi.mp4",
     "caption": "इस हफ्ते किस स्टूडेंट को मदद चाहिए? डेटा को पहले से पता है।\n\nStudent Analytics हर स्टूडेंट के मॉक टेस्ट स्कोर और प्रोग्रेस ट्रेंड को ट्रैक करता है।\n\nlikhapoha.in\n\n#CBSE #LikhaPohaAI #NCERT #पढ़ाई",
-    "status": "pending",
-    "lang": "hi"
+    "status": "posted",
+    "lang": "hi",
+    "posted_at": "2026-11-14T18:22:28.656225+00:00"
   },
   {
     "id": "R16-myth-examprep-c2",
